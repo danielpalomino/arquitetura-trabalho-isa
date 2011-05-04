@@ -1,0 +1,6 @@
+Repositório para o trabalho de arquitetura de processadores.
+Prof. Luigi Carro.
+Projetar uma ISA especializada para os seguintes algoritmos:
+(1) Tabela Hash
+(2) Busca em Profundidade
+(3) Transformada IMDCT
