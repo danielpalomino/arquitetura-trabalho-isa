@@ -2,7 +2,7 @@
 # Programs to build
 # **********************************************
 
-PROGS =	tabela_hash.o
+PROGS =	dfs.o
 
 # **********************************************
 # Endianness EB | EL

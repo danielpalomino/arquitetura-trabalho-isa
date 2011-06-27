@@ -1,0 +1,57 @@
+
+dfs.o: formato do arquivo elf32-tradlittlemips
+
+Disassembly of section .text:
+
+00000000 <dfs>:
+   0:	27bdffe8 	addiu	$sp,$sp,-24
+   4:	afbf0014 	sw	$ra,20($sp)
+   8:	afbe0010 	sw	$s8,16($sp)
+   c:	03a0f025 	move	$s8,$sp
+  10:	afc40018 	sw	$a0,24($s8)
+  14:	8fc30018 	lw	$v1,24($s8)
+  18:	3c020000 	lui	$v0,0x0
+  1c:	8c420000 	lw	$v0,0($v0)
+  20:	00000000 	nop
+  24:	1062000b 	beq	$v1,$v0,54 <dfs+0x54>
+  28:	00000000 	nop
+  2c:	8fc20018 	lw	$v0,24($s8)
+  30:	00000000 	nop
+  34:	8c440000 	lw	$a0,0($v0)
+  38:	0c000000 	jal	0 <dfs>
+  3c:	00000000 	nop
+  40:	8fc20018 	lw	$v0,24($s8)
+  44:	00000000 	nop
+  48:	8c440004 	lw	$a0,4($v0)
+  4c:	0c000000 	jal	0 <dfs>
+  50:	00000000 	nop
+  54:	03c0e825 	move	$sp,$s8
+  58:	8fbf0014 	lw	$ra,20($sp)
+  5c:	8fbe0010 	lw	$s8,16($sp)
+  60:	03e00008 	jr	$ra
+  64:	27bd0018 	addiu	$sp,$sp,24
+
+00000068 <main>:
+  68:	27bdffe0 	addiu	$sp,$sp,-32
+  6c:	afbf001c 	sw	$ra,28($sp)
+  70:	afbe0018 	sw	$s8,24($sp)
+  74:	03a0f025 	move	$s8,$sp
+  78:	8fc40010 	lw	$a0,16($s8)
+  7c:	0c000000 	jal	0 <dfs>
+  80:	00000000 	nop
+  84:	03c0e825 	move	$sp,$s8
+  88:	8fbf001c 	lw	$ra,28($sp)
+  8c:	8fbe0018 	lw	$s8,24($sp)
+  90:	03e00008 	jr	$ra
+  94:	27bd0020 	addiu	$sp,$sp,32
+	...
+Disassembly of section .data:
+
+00000000 <NULL>:
+	...
+Disassembly of section .data1:
+Disassembly of section .reginfo:
+
+00000000 <.reginfo>:
+   0:	e000001c 	swc0	$0,28($zero)
+	...
