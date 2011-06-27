@@ -1,0 +1,99 @@
+
+tabela_hash.o: formato do arquivo elf32-tradlittlemips
+
+Disassembly of section .text:
+
+00000000 <insere>:
+   0:	27bdfff8 	addiu	$sp,$sp,-8
+   4:	afbe0000 	sw	$s8,0($sp)
+   8:	03a0f025 	move	$s8,$sp
+   c:	afc40008 	sw	$a0,8($s8)
+  10:	afc5000c 	sw	$a1,12($s8)
+  14:	8fc2000c 	lw	$v0,12($s8)
+  18:	00000000 	nop
+  1c:	00021880 	sll	$v1,$v0,0x2
+  20:	3c020000 	lui	$v0,0x0
+  24:	24420000 	addiu	$v0,$v0,0
+  28:	00431821 	addu	$v1,$v0,$v1
+  2c:	8fc20008 	lw	$v0,8($s8)
+  30:	00000000 	nop
+  34:	ac620000 	sw	$v0,0($v1)
+  38:	03c0e825 	move	$sp,$s8
+  3c:	8fbe0000 	lw	$s8,0($sp)
+  40:	03e00008 	jr	$ra
+  44:	27bd0008 	addiu	$sp,$sp,8
+
+00000048 <recupera>:
+  48:	27bdfff8 	addiu	$sp,$sp,-8
+  4c:	afbe0000 	sw	$s8,0($sp)
+  50:	03a0f025 	move	$s8,$sp
+  54:	afc40008 	sw	$a0,8($s8)
+  58:	8fc20008 	lw	$v0,8($s8)
+  5c:	00000000 	nop
+  60:	00021880 	sll	$v1,$v0,0x2
+  64:	3c020000 	lui	$v0,0x0
+  68:	24420000 	addiu	$v0,$v0,0
+  6c:	00431021 	addu	$v0,$v0,$v1
+  70:	8c420000 	lw	$v0,0($v0)
+  74:	03c0e825 	move	$sp,$s8
+  78:	8fbe0000 	lw	$s8,0($sp)
+  7c:	03e00008 	jr	$ra
+  80:	27bd0008 	addiu	$sp,$sp,8
+
+00000084 <main>:
+  84:	27bdffe0 	addiu	$sp,$sp,-32
+  88:	afbf001c 	sw	$ra,28($sp)
+  8c:	afbe0018 	sw	$s8,24($sp)
+  90:	03a0f025 	move	$s8,$sp
+  94:	00000000 	nop
+  98:	afc00010 	sw	$zero,16($s8)
+  9c:	8fc20010 	lw	$v0,16($s8)
+  a0:	00000000 	nop
+  a4:	2842000a 	slti	$v0,$v0,10
+  a8:	14400003 	bnez	$v0,b8 <main+0x34>
+  ac:	00000000 	nop
+  b0:	1000000d 	b	e8 <main+0x64>
+  b4:	00000000 	nop
+  b8:	8fc20010 	lw	$v0,16($s8)
+  bc:	00000000 	nop
+  c0:	2442000a 	addiu	$v0,$v0,10
+  c4:	00402025 	move	$a0,$v0
+  c8:	8fc50010 	lw	$a1,16($s8)
+  cc:	0c000000 	jal	0 <insere>
+  d0:	00000000 	nop
+  d4:	8fc20010 	lw	$v0,16($s8)
+  d8:	00000000 	nop
+  dc:	24420001 	addiu	$v0,$v0,1
+  e0:	1000ffee 	b	9c <main+0x18>
+  e4:	afc20010 	sw	$v0,16($s8)
+  e8:	00000000 	nop
+  ec:	afc00010 	sw	$zero,16($s8)
+  f0:	8fc20010 	lw	$v0,16($s8)
+  f4:	00000000 	nop
+  f8:	2842000a 	slti	$v0,$v0,10
+  fc:	14400003 	bnez	$v0,10c <main+0x88>
+ 100:	00000000 	nop
+ 104:	1000000a 	b	130 <main+0xac>
+ 108:	00000000 	nop
+ 10c:	8fc40010 	lw	$a0,16($s8)
+ 110:	0c000000 	jal	0 <insere>
+ 114:	00000000 	nop
+ 118:	afc20014 	sw	$v0,20($s8)
+ 11c:	8fc20010 	lw	$v0,16($s8)
+ 120:	00000000 	nop
+ 124:	24420001 	addiu	$v0,$v0,1
+ 128:	1000fff1 	b	f0 <main+0x6c>
+ 12c:	afc20010 	sw	$v0,16($s8)
+ 130:	03c0e825 	move	$sp,$s8
+ 134:	8fbf001c 	lw	$ra,28($sp)
+ 138:	8fbe0018 	lw	$s8,24($sp)
+ 13c:	03e00008 	jr	$ra
+ 140:	27bd0020 	addiu	$sp,$sp,32
+	...
+Disassembly of section .data:
+Disassembly of section .data1:
+Disassembly of section .reginfo:
+
+00000000 <.reginfo>:
+   0:	e000003c 	swc0	$0,60($zero)
+	...
