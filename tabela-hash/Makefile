@@ -76,7 +76,7 @@ endif
 %.o : %.s
 	$(CC) $(W_OPTS_A) $(CC_OPTS_A) -o $@ $<
 	
-My_Program : $(BOOTSTRAP) $(PROGS)
+tabela_hash : $(BOOTSTRAP) $(PROGS)
 	$(LD) $(LD_OPTS) -o $@ $?
 	$(OBJCOPY) -O binary $@ $@.bin
 	$(OBJCOPY) -O binary -j .text $@ code.bin 
