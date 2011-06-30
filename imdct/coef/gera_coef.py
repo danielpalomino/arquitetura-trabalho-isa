@@ -6,17 +6,30 @@ def geraCoef(N,m,k):
 	c = pi/N
 	return cos(a*b*c)
 
+def intToBin(n, size):
+	word = ''
+	for i in range(0,size):
+		x = 1 << i
+		char = n & x
+		if(char == 0):
+			word = '0' + word
+		else:
+			word = '1' + word
+	return word
+
+
 fp_in = open('in','r')
 buff = fp_in.readlines()
 fp_in.close()
 
 coefList = []
 for line in buff:
-	coefList.append(' N ' + str(int(line)))
+#	coefList.append(' N ' + str(int(line)))
 	for i in range(0,(int(line)*2)):
-		coefList.append('  Y ' + str(i))
+#		coefList.append('  Y ' + str(i))
 		for k in range(0, int(line)):
-			coefList.append('   coef ' + str(k) + ": " + str(int(geraCoef(int(line),i,k)*100)))
+			coefList.append(str(int(geraCoef(int(line),i,k)*100)))
+			coefList.append(intToBin(int(geraCoef(int(line),i,k)*100),8))
 
 fp_out = open('out','w')
 

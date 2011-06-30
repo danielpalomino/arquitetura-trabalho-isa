@@ -1,2857 +1,1440 @@
- N 2
-  Y 0
-   coef 0: 38
-   coef 1: -92
-  Y 1
-   coef 0: -38
-   coef 1: 92
-  Y 2
-   coef 0: -92
-   coef 1: -38
-  Y 3
-   coef 0: -92
-   coef 1: -38
- N 4
-  Y 0
-   coef 0: 55
-   coef 1: -98
-   coef 2: 19
-   coef 3: 83
-  Y 1
-   coef 0: 19
-   coef 1: -55
-   coef 2: 83
-   coef 3: -98
-  Y 2
-   coef 0: -19
-   coef 1: 55
-   coef 2: -83
-   coef 3: 98
-  Y 3
-   coef 0: -55
-   coef 1: 98
-   coef 2: -19
-   coef 3: -83
-  Y 4
-   coef 0: -83
-   coef 1: 19
-   coef 2: 98
-   coef 3: 55
-  Y 5
-   coef 0: -98
-   coef 1: -83
-   coef 2: -55
-   coef 3: -19
-  Y 6
-   coef 0: -98
-   coef 1: -83
-   coef 2: -55
-   coef 3: -19
-  Y 7
-   coef 0: -83
-   coef 1: 19
-   coef 2: 98
-   coef 3: 55
- N 8
-  Y 0
-   coef 0: 63
-   coef 1: -88
-   coef 2: -29
-   coef 3: 99
-   coef 4: -9
-   coef 5: -95
-   coef 6: 47
-   coef 7: 77
-  Y 1
-   coef 0: 47
-   coef 1: -99
-   coef 2: 63
-   coef 3: 29
-   coef 4: -95
-   coef 5: 77
-   coef 6: 9
-   coef 7: -88
-  Y 2
-   coef 0: 29
-   coef 1: -77
-   coef 2: 99
-   coef 3: -88
-   coef 4: 47
-   coef 5: 9
-   coef 6: -63
-   coef 7: 95
-  Y 3
-   coef 0: 9
-   coef 1: -29
-   coef 2: 47
-   coef 3: -63
-   coef 4: 77
-   coef 5: -88
-   coef 6: 95
-   coef 7: -99
-  Y 4
-   coef 0: -9
-   coef 1: 29
-   coef 2: -47
-   coef 3: 63
-   coef 4: -77
-   coef 5: 88
-   coef 6: -95
-   coef 7: 99
-  Y 5
-   coef 0: -29
-   coef 1: 77
-   coef 2: -99
-   coef 3: 88
-   coef 4: -47
-   coef 5: -9
-   coef 6: 63
-   coef 7: -95
-  Y 6
-   coef 0: -47
-   coef 1: 99
-   coef 2: -63
-   coef 3: -29
-   coef 4: 95
-   coef 5: -77
-   coef 6: -9
-   coef 7: 88
-  Y 7
-   coef 0: -63
-   coef 1: 88
-   coef 2: 29
-   coef 3: -99
-   coef 4: 9
-   coef 5: 95
-   coef 6: -47
-   coef 7: -77
-  Y 8
-   coef 0: -77
-   coef 1: 47
-   coef 2: 95
-   coef 3: -9
-   coef 4: -99
-   coef 5: -29
-   coef 6: 88
-   coef 7: 63
-  Y 9
-   coef 0: -88
-   coef 1: -9
-   coef 2: 77
-   coef 3: 95
-   coef 4: 29
-   coef 5: -63
-   coef 6: -99
-   coef 7: -47
-  Y 10
-   coef 0: -95
-   coef 1: -63
-   coef 2: -9
-   coef 3: 47
-   coef 4: 88
-   coef 5: 99
-   coef 6: 77
-   coef 7: 29
-  Y 11
-   coef 0: -99
-   coef 1: -95
-   coef 2: -88
-   coef 3: -77
-   coef 4: -63
-   coef 5: -47
-   coef 6: -29
-   coef 7: -9
-  Y 12
-   coef 0: -99
-   coef 1: -95
-   coef 2: -88
-   coef 3: -77
-   coef 4: -63
-   coef 5: -47
-   coef 6: -29
-   coef 7: -9
-  Y 13
-   coef 0: -95
-   coef 1: -63
-   coef 2: -9
-   coef 3: 47
-   coef 4: 88
-   coef 5: 99
-   coef 6: 77
-   coef 7: 29
-  Y 14
-   coef 0: -88
-   coef 1: -9
-   coef 2: 77
-   coef 3: 95
-   coef 4: 29
-   coef 5: -63
-   coef 6: -99
-   coef 7: -47
-  Y 15
-   coef 0: -77
-   coef 1: 47
-   coef 2: 95
-   coef 3: -9
-   coef 4: -99
-   coef 5: -29
-   coef 6: 88
-   coef 7: 63
- N 16
-  Y 0
-   coef 0: 67
-   coef 1: -80
-   coef 2: -51
-   coef 3: 90
-   coef 4: 33
-   coef 5: -97
-   coef 6: -14
-   coef 7: 99
-   coef 8: -4
-   coef 9: -98
-   coef 10: 24
-   coef 11: 94
-   coef 12: -42
-   coef 13: -85
-   coef 14: 59
-   coef 15: 74
-  Y 1
-   coef 0: 59
-   coef 1: -94
-   coef 2: -4
-   coef 3: 97
-   coef 4: -51
-   coef 5: -67
-   coef 6: 90
-   coef 7: 14
-   coef 8: -98
-   coef 9: 42
-   coef 10: 74
-   coef 11: -85
-   coef 12: -24
-   coef 13: 99
-   coef 14: -33
-   coef 15: -80
-  Y 2
-   coef 0: 51
-   coef 1: -99
-   coef 2: 42
-   coef 3: 59
-   coef 4: -98
-   coef 5: 33
-   coef 6: 67
-   coef 7: -97
-   coef 8: 24
-   coef 9: 74
-   coef 10: -94
-   coef 11: 14
-   coef 12: 80
-   coef 13: -90
-   coef 14: 4
-   coef 15: 85
-  Y 3
-   coef 0: 42
-   coef 1: -97
-   coef 2: 80
-   coef 3: -4
-   coef 4: -74
-   coef 5: 98
-   coef 6: -51
-   coef 7: -33
-   coef 8: 94
-   coef 9: -85
-   coef 10: 14
-   coef 11: 67
-   coef 12: -99
-   coef 13: 59
-   coef 14: 24
-   coef 15: -90
-  Y 4
-   coef 0: 33
-   coef 1: -85
-   coef 2: 98
-   coef 3: -67
-   coef 4: 4
-   coef 5: 59
-   coef 6: -97
-   coef 7: 90
-   coef 8: -42
-   coef 9: -24
-   coef 10: 80
-   coef 11: -99
-   coef 12: 74
-   coef 13: -14
-   coef 14: -51
-   coef 15: 94
-  Y 5
-   coef 0: 24
-   coef 1: -67
-   coef 2: 94
-   coef 3: -98
-   coef 4: 80
-   coef 5: -42
-   coef 6: -4
-   coef 7: 51
-   coef 8: -85
-   coef 9: 99
-   coef 10: -90
-   coef 11: 59
-   coef 12: -14
-   coef 13: -33
-   coef 14: 74
-   coef 15: -97
-  Y 6
-   coef 0: 14
-   coef 1: -42
-   coef 2: 67
-   coef 3: -85
-   coef 4: 97
-   coef 5: -99
-   coef 6: 94
-   coef 7: -80
-   coef 8: 59
-   coef 9: -33
-   coef 10: 4
-   coef 11: 24
-   coef 12: -51
-   coef 13: 74
-   coef 14: -90
-   coef 15: 98
-  Y 7
-   coef 0: 4
-   coef 1: -14
-   coef 2: 24
-   coef 3: -33
-   coef 4: 42
-   coef 5: -51
-   coef 6: 59
-   coef 7: -67
-   coef 8: 74
-   coef 9: -80
-   coef 10: 85
-   coef 11: -90
-   coef 12: 94
-   coef 13: -97
-   coef 14: 98
-   coef 15: -99
-  Y 8
-   coef 0: -4
-   coef 1: 14
-   coef 2: -24
-   coef 3: 33
-   coef 4: -42
-   coef 5: 51
-   coef 6: -59
-   coef 7: 67
-   coef 8: -74
-   coef 9: 80
-   coef 10: -85
-   coef 11: 90
-   coef 12: -94
-   coef 13: 97
-   coef 14: -98
-   coef 15: 99
-  Y 9
-   coef 0: -14
-   coef 1: 42
-   coef 2: -67
-   coef 3: 85
-   coef 4: -97
-   coef 5: 99
-   coef 6: -94
-   coef 7: 80
-   coef 8: -59
-   coef 9: 33
-   coef 10: -4
-   coef 11: -24
-   coef 12: 51
-   coef 13: -74
-   coef 14: 90
-   coef 15: -98
-  Y 10
-   coef 0: -24
-   coef 1: 67
-   coef 2: -94
-   coef 3: 98
-   coef 4: -80
-   coef 5: 42
-   coef 6: 4
-   coef 7: -51
-   coef 8: 85
-   coef 9: -99
-   coef 10: 90
-   coef 11: -59
-   coef 12: 14
-   coef 13: 33
-   coef 14: -74
-   coef 15: 97
-  Y 11
-   coef 0: -33
-   coef 1: 85
-   coef 2: -98
-   coef 3: 67
-   coef 4: -4
-   coef 5: -59
-   coef 6: 97
-   coef 7: -90
-   coef 8: 42
-   coef 9: 24
-   coef 10: -80
-   coef 11: 99
-   coef 12: -74
-   coef 13: 14
-   coef 14: 51
-   coef 15: -94
-  Y 12
-   coef 0: -42
-   coef 1: 97
-   coef 2: -80
-   coef 3: 4
-   coef 4: 74
-   coef 5: -98
-   coef 6: 51
-   coef 7: 33
-   coef 8: -94
-   coef 9: 85
-   coef 10: -14
-   coef 11: -67
-   coef 12: 99
-   coef 13: -59
-   coef 14: -24
-   coef 15: 90
-  Y 13
-   coef 0: -51
-   coef 1: 99
-   coef 2: -42
-   coef 3: -59
-   coef 4: 98
-   coef 5: -33
-   coef 6: -67
-   coef 7: 97
-   coef 8: -24
-   coef 9: -74
-   coef 10: 94
-   coef 11: -14
-   coef 12: -80
-   coef 13: 90
-   coef 14: -4
-   coef 15: -85
-  Y 14
-   coef 0: -59
-   coef 1: 94
-   coef 2: 4
-   coef 3: -97
-   coef 4: 51
-   coef 5: 67
-   coef 6: -90
-   coef 7: -14
-   coef 8: 98
-   coef 9: -42
-   coef 10: -74
-   coef 11: 85
-   coef 12: 24
-   coef 13: -99
-   coef 14: 33
-   coef 15: 80
-  Y 15
-   coef 0: -67
-   coef 1: 80
-   coef 2: 51
-   coef 3: -90
-   coef 4: -33
-   coef 5: 97
-   coef 6: 14
-   coef 7: -99
-   coef 8: 4
-   coef 9: 98
-   coef 10: -24
-   coef 11: -94
-   coef 12: 42
-   coef 13: 85
-   coef 14: -59
-   coef 15: -74
-  Y 16
-   coef 0: -74
-   coef 1: 59
-   coef 2: 85
-   coef 3: -42
-   coef 4: -94
-   coef 5: 24
-   coef 6: 98
-   coef 7: -4
-   coef 8: -99
-   coef 9: -14
-   coef 10: 97
-   coef 11: 33
-   coef 12: -90
-   coef 13: -51
-   coef 14: 80
-   coef 15: 67
-  Y 17
-   coef 0: -80
-   coef 1: 33
-   coef 2: 99
-   coef 3: 24
-   coef 4: -85
-   coef 5: -74
-   coef 6: 42
-   coef 7: 98
-   coef 8: 14
-   coef 9: -90
-   coef 10: -67
-   coef 11: 51
-   coef 12: 97
-   coef 13: 4
-   coef 14: -94
-   coef 15: -59
-  Y 18
-   coef 0: -85
-   coef 1: 4
-   coef 2: 90
-   coef 3: 80
-   coef 4: -14
-   coef 5: -94
-   coef 6: -74
-   coef 7: 24
-   coef 8: 97
-   coef 9: 67
-   coef 10: -33
-   coef 11: -98
-   coef 12: -59
-   coef 13: 42
-   coef 14: 99
-   coef 15: 51
-  Y 19
-   coef 0: -90
-   coef 1: -24
-   coef 2: 59
-   coef 3: 99
-   coef 4: 67
-   coef 5: -14
-   coef 6: -85
-   coef 7: -94
-   coef 8: -33
-   coef 9: 51
-   coef 10: 98
-   coef 11: 74
-   coef 12: -4
-   coef 13: -80
-   coef 14: -97
-   coef 15: -42
-  Y 20
-   coef 0: -94
-   coef 1: -51
-   coef 2: 14
-   coef 3: 74
-   coef 4: 99
-   coef 5: 80
-   coef 6: 24
-   coef 7: -42
-   coef 8: -90
-   coef 9: -97
-   coef 10: -59
-   coef 11: 4
-   coef 12: 67
-   coef 13: 98
-   coef 14: 85
-   coef 15: 33
-  Y 21
-   coef 0: -97
-   coef 1: -74
-   coef 2: -33
-   coef 3: 14
-   coef 4: 59
-   coef 5: 90
-   coef 6: 99
-   coef 7: 85
-   coef 8: 51
-   coef 9: 4
-   coef 10: -42
-   coef 11: -80
-   coef 12: -98
-   coef 13: -94
-   coef 14: -67
-   coef 15: -24
-  Y 22
-   coef 0: -98
-   coef 1: -90
-   coef 2: -74
-   coef 3: -51
-   coef 4: -24
-   coef 5: 4
-   coef 6: 33
-   coef 7: 59
-   coef 8: 80
-   coef 9: 94
-   coef 10: 99
-   coef 11: 97
-   coef 12: 85
-   coef 13: 67
-   coef 14: 42
-   coef 15: 14
-  Y 23
-   coef 0: -99
-   coef 1: -98
-   coef 2: -97
-   coef 3: -94
-   coef 4: -90
-   coef 5: -85
-   coef 6: -80
-   coef 7: -74
-   coef 8: -67
-   coef 9: -59
-   coef 10: -51
-   coef 11: -42
-   coef 12: -33
-   coef 13: -24
-   coef 14: -14
-   coef 15: -4
-  Y 24
-   coef 0: -99
-   coef 1: -98
-   coef 2: -97
-   coef 3: -94
-   coef 4: -90
-   coef 5: -85
-   coef 6: -80
-   coef 7: -74
-   coef 8: -67
-   coef 9: -59
-   coef 10: -51
-   coef 11: -42
-   coef 12: -33
-   coef 13: -24
-   coef 14: -14
-   coef 15: -4
-  Y 25
-   coef 0: -98
-   coef 1: -90
-   coef 2: -74
-   coef 3: -51
-   coef 4: -24
-   coef 5: 4
-   coef 6: 33
-   coef 7: 59
-   coef 8: 80
-   coef 9: 94
-   coef 10: 99
-   coef 11: 97
-   coef 12: 85
-   coef 13: 67
-   coef 14: 42
-   coef 15: 14
-  Y 26
-   coef 0: -97
-   coef 1: -74
-   coef 2: -33
-   coef 3: 14
-   coef 4: 59
-   coef 5: 90
-   coef 6: 99
-   coef 7: 85
-   coef 8: 51
-   coef 9: 4
-   coef 10: -42
-   coef 11: -80
-   coef 12: -98
-   coef 13: -94
-   coef 14: -67
-   coef 15: -24
-  Y 27
-   coef 0: -94
-   coef 1: -51
-   coef 2: 14
-   coef 3: 74
-   coef 4: 99
-   coef 5: 80
-   coef 6: 24
-   coef 7: -42
-   coef 8: -90
-   coef 9: -97
-   coef 10: -59
-   coef 11: 4
-   coef 12: 67
-   coef 13: 98
-   coef 14: 85
-   coef 15: 33
-  Y 28
-   coef 0: -90
-   coef 1: -24
-   coef 2: 59
-   coef 3: 99
-   coef 4: 67
-   coef 5: -14
-   coef 6: -85
-   coef 7: -94
-   coef 8: -33
-   coef 9: 51
-   coef 10: 98
-   coef 11: 74
-   coef 12: -4
-   coef 13: -80
-   coef 14: -97
-   coef 15: -42
-  Y 29
-   coef 0: -85
-   coef 1: 4
-   coef 2: 90
-   coef 3: 80
-   coef 4: -14
-   coef 5: -94
-   coef 6: -74
-   coef 7: 24
-   coef 8: 97
-   coef 9: 67
-   coef 10: -33
-   coef 11: -98
-   coef 12: -59
-   coef 13: 42
-   coef 14: 99
-   coef 15: 51
-  Y 30
-   coef 0: -80
-   coef 1: 33
-   coef 2: 99
-   coef 3: 24
-   coef 4: -85
-   coef 5: -74
-   coef 6: 42
-   coef 7: 98
-   coef 8: 14
-   coef 9: -90
-   coef 10: -67
-   coef 11: 51
-   coef 12: 97
-   coef 13: 4
-   coef 14: -94
-   coef 15: -59
-  Y 31
-   coef 0: -74
-   coef 1: 59
-   coef 2: 85
-   coef 3: -42
-   coef 4: -94
-   coef 5: 24
-   coef 6: 98
-   coef 7: -4
-   coef 8: -99
-   coef 9: -14
-   coef 10: 97
-   coef 11: 33
-   coef 12: -90
-   coef 13: -51
-   coef 14: 80
-   coef 15: 67
- N 32
-  Y 0
-   coef 0: 68
-   coef 1: -75
-   coef 2: -61
-   coef 3: 81
-   coef 4: 53
-   coef 5: -87
-   coef 6: -44
-   coef 7: 91
-   coef 8: 35
-   coef 9: -94
-   coef 10: -26
-   coef 11: 97
-   coef 12: 17
-   coef 13: -99
-   coef 14: -7
-   coef 15: 99
-   coef 16: -2
-   coef 17: -99
-   coef 18: 12
-   coef 19: 98
-   coef 20: -21
-   coef 21: -96
-   coef 22: 31
-   coef 23: 93
-   coef 24: -40
-   coef 25: -89
-   coef 26: 49
-   coef 27: 84
-   coef 28: -57
-   coef 29: -78
-   coef 30: 65
-   coef 31: 72
-  Y 1
-   coef 0: 65
-   coef 1: -84
-   coef 2: -40
-   coef 3: 96
-   coef 4: 12
-   coef 5: -99
-   coef 6: 17
-   coef 7: 94
-   coef 8: -44
-   coef 9: -81
-   coef 10: 68
-   coef 11: 61
-   coef 12: -87
-   coef 13: -35
-   coef 14: 97
-   coef 15: 7
-   coef 16: -99
-   coef 17: 21
-   coef 18: 93
-   coef 19: -49
-   coef 20: -78
-   coef 21: 72
-   coef 22: 57
-   coef 23: -89
-   coef 24: -31
-   coef 25: 98
-   coef 26: 2
-   coef 27: -99
-   coef 28: 26
-   coef 29: 91
-   coef 30: -53
-   coef 31: -75
-  Y 2
-   coef 0: 61
-   coef 1: -91
-   coef 2: -17
-   coef 3: 99
-   coef 4: -31
-   coef 5: -84
-   coef 6: 72
-   coef 7: 49
-   coef 8: -96
-   coef 9: -2
-   coef 10: 97
-   coef 11: -44
-   coef 12: -75
-   coef 13: 81
-   coef 14: 35
-   coef 15: -99
-   coef 16: 12
-   coef 17: 93
-   coef 18: -57
-   coef 19: -65
-   coef 20: 89
-   coef 21: 21
-   coef 22: -99
-   coef 23: 26
-   coef 24: 87
-   coef 25: -68
-   coef 26: -53
-   coef 27: 94
-   coef 28: 7
-   coef 29: -98
-   coef 30: 40
-   coef 31: 78
-  Y 3
-   coef 0: 57
-   coef 1: -96
-   coef 2: 7
-   coef 3: 91
-   coef 4: -68
-   coef 5: -44
-   coef 6: 99
-   coef 7: -21
-   coef 8: -84
-   coef 9: 78
-   coef 10: 31
-   coef 11: -99
-   coef 12: 35
-   coef 13: 75
-   coef 14: -87
-   coef 15: -17
-   coef 16: 98
-   coef 17: -49
-   coef 18: -65
-   coef 19: 93
-   coef 20: 2
-   coef 21: -94
-   coef 22: 61
-   coef 23: 53
-   coef 24: -97
-   coef 25: 12
-   coef 26: 89
-   coef 27: -72
-   coef 28: -40
-   coef 29: 99
-   coef 30: -26
-   coef 31: -81
-  Y 4
-   coef 0: 53
-   coef 1: -99
-   coef 2: 31
-   coef 3: 72
-   coef 4: -93
-   coef 5: 7
-   coef 6: 87
-   coef 7: -81
-   coef 8: -17
-   coef 9: 96
-   coef 10: -65
-   coef 11: -40
-   coef 12: 99
-   coef 13: -44
-   coef 14: -61
-   coef 15: 97
-   coef 16: -21
-   coef 17: -78
-   coef 18: 89
-   coef 19: 2
-   coef 20: -91
-   coef 21: 75
-   coef 22: 26
-   coef 23: -98
-   coef 24: 57
-   coef 25: 49
-   coef 26: -99
-   coef 27: 35
-   coef 28: 68
-   coef 29: -94
-   coef 30: 12
-   coef 31: 84
-  Y 5
-   coef 0: 49
-   coef 1: -99
-   coef 2: 53
-   coef 3: 44
-   coef 4: -99
-   coef 5: 57
-   coef 6: 40
-   coef 7: -99
-   coef 8: 61
-   coef 9: 35
-   coef 10: -98
-   coef 11: 65
-   coef 12: 31
-   coef 13: -97
-   coef 14: 68
-   coef 15: 26
-   coef 16: -96
-   coef 17: 72
-   coef 18: 21
-   coef 19: -94
-   coef 20: 75
-   coef 21: 17
-   coef 22: -93
-   coef 23: 78
-   coef 24: 12
-   coef 25: -91
-   coef 26: 81
-   coef 27: 7
-   coef 28: -89
-   coef 29: 84
-   coef 30: 2
-   coef 31: -87
-  Y 6
-   coef 0: 44
-   coef 1: -98
-   coef 2: 72
-   coef 3: 12
-   coef 4: -87
-   coef 5: 91
-   coef 6: -21
-   coef 7: -65
-   coef 8: 99
-   coef 9: -53
-   coef 10: -35
-   coef 11: 96
-   coef 12: -78
-   coef 13: -2
-   coef 14: 81
-   coef 15: -94
-   coef 16: 31
-   coef 17: 57
-   coef 18: -99
-   coef 19: 61
-   coef 20: 26
-   coef 21: -93
-   coef 22: 84
-   coef 23: -7
-   coef 24: -75
-   coef 25: 97
-   coef 26: -40
-   coef 27: -49
-   coef 28: 99
-   coef 29: -68
-   coef 30: -17
-   coef 31: 89
-  Y 7
-   coef 0: 40
-   coef 1: -94
-   coef 2: 87
-   coef 3: -21
-   coef 4: -57
-   coef 5: 99
-   coef 6: -75
-   coef 7: 2
-   coef 8: 72
-   coef 9: -99
-   coef 10: 61
-   coef 11: 17
-   coef 12: -84
-   coef 13: 96
-   coef 14: -44
-   coef 15: -35
-   coef 16: 93
-   coef 17: -89
-   coef 18: 26
-   coef 19: 53
-   coef 20: -98
-   coef 21: 78
-   coef 22: -7
-   coef 23: -68
-   coef 24: 99
-   coef 25: -65
-   coef 26: -12
-   coef 27: 81
-   coef 28: -97
-   coef 29: 49
-   coef 30: 31
-   coef 31: -91
-  Y 8
-   coef 0: 35
-   coef 1: -89
-   coef 2: 96
-   coef 3: -53
-   coef 4: -17
-   coef 5: 78
-   coef 6: -99
-   coef 7: 68
-   coef 8: -2
-   coef 9: -65
-   coef 10: 99
-   coef 11: -81
-   coef 12: 21
-   coef 13: 49
-   coef 14: -94
-   coef 15: 91
-   coef 16: -40
-   coef 17: -31
-   coef 18: 87
-   coef 19: -97
-   coef 20: 57
-   coef 21: 12
-   coef 22: -75
-   coef 23: 99
-   coef 24: -72
-   coef 25: 7
-   coef 26: 61
-   coef 27: -98
-   coef 28: 84
-   coef 29: -26
-   coef 30: -44
-   coef 31: 93
-  Y 9
-   coef 0: 31
-   coef 1: -81
-   coef 2: 99
-   coef 3: -78
-   coef 4: 26
-   coef 5: 35
-   coef 6: -84
-   coef 7: 99
-   coef 8: -75
-   coef 9: 21
-   coef 10: 40
-   coef 11: -87
-   coef 12: 99
-   coef 13: -72
-   coef 14: 17
-   coef 15: 44
-   coef 16: -89
-   coef 17: 98
-   coef 18: -68
-   coef 19: 12
-   coef 20: 49
-   coef 21: -91
-   coef 22: 97
-   coef 23: -65
-   coef 24: 7
-   coef 25: 53
-   coef 26: -93
-   coef 27: 96
-   coef 28: -61
-   coef 29: 2
-   coef 30: 57
-   coef 31: -94
-  Y 10
-   coef 0: 26
-   coef 1: -72
-   coef 2: 97
-   coef 3: -94
-   coef 4: 65
-   coef 5: -17
-   coef 6: -35
-   coef 7: 78
-   coef 8: -99
-   coef 9: 91
-   coef 10: -57
-   coef 11: 7
-   coef 12: 44
-   coef 13: -84
-   coef 14: 99
-   coef 15: -87
-   coef 16: 49
-   coef 17: 2
-   coef 18: -53
-   coef 19: 89
-   coef 20: -99
-   coef 21: 81
-   coef 22: -40
-   coef 23: -12
-   coef 24: 61
-   coef 25: -93
-   coef 26: 98
-   coef 27: -75
-   coef 28: 31
-   coef 29: 21
-   coef 30: -68
-   coef 31: 96
-  Y 11
-   coef 0: 21
-   coef 1: -61
-   coef 2: 89
-   coef 3: -99
-   coef 4: 91
-   coef 5: -65
-   coef 6: 26
-   coef 7: 17
-   coef 8: -57
-   coef 9: 87
-   coef 10: -99
-   coef 11: 93
-   coef 12: -68
-   coef 13: 31
-   coef 14: 12
-   coef 15: -53
-   coef 16: 84
-   coef 17: -99
-   coef 18: 94
-   coef 19: -72
-   coef 20: 35
-   coef 21: 7
-   coef 22: -49
-   coef 23: 81
-   coef 24: -98
-   coef 25: 96
-   coef 26: -75
-   coef 27: 40
-   coef 28: 2
-   coef 29: -44
-   coef 30: 78
-   coef 31: -97
-  Y 12
-   coef 0: 17
-   coef 1: -49
-   coef 2: 75
-   coef 3: -93
-   coef 4: 99
-   coef 5: -94
-   coef 6: 78
-   coef 7: -53
-   coef 8: 21
-   coef 9: 12
-   coef 10: -44
-   coef 11: 72
-   coef 12: -91
-   coef 13: 99
-   coef 14: -96
-   coef 15: 81
-   coef 16: -57
-   coef 17: 26
-   coef 18: 7
-   coef 19: -40
-   coef 20: 68
-   coef 21: -89
-   coef 22: 99
-   coef 23: -97
-   coef 24: 84
-   coef 25: -61
-   coef 26: 31
-   coef 27: 2
-   coef 28: -35
-   coef 29: 65
-   coef 30: -87
-   coef 31: 98
-  Y 13
-   coef 0: 12
-   coef 1: -35
-   coef 2: 57
-   coef 3: -75
-   coef 4: 89
-   coef 5: -97
-   coef 6: 99
-   coef 7: -96
-   coef 8: 87
-   coef 9: -72
-   coef 10: 53
-   coef 11: -31
-   coef 12: 7
-   coef 13: 17
-   coef 14: -40
-   coef 15: 61
-   coef 16: -78
-   coef 17: 91
-   coef 18: -98
-   coef 19: 99
-   coef 20: -94
-   coef 21: 84
-   coef 22: -68
-   coef 23: 49
-   coef 24: -26
-   coef 25: 2
-   coef 26: 21
-   coef 27: -44
-   coef 28: 65
-   coef 29: -81
-   coef 30: 93
-   coef 31: -99
-  Y 14
-   coef 0: 7
-   coef 1: -21
-   coef 2: 35
-   coef 3: -49
-   coef 4: 61
-   coef 5: -72
-   coef 6: 81
-   coef 7: -89
-   coef 8: 94
-   coef 9: -98
-   coef 10: 99
-   coef 11: -99
-   coef 12: 96
-   coef 13: -91
-   coef 14: 84
-   coef 15: -75
-   coef 16: 65
-   coef 17: -53
-   coef 18: 40
-   coef 19: -26
-   coef 20: 12
-   coef 21: 2
-   coef 22: -17
-   coef 23: 31
-   coef 24: -44
-   coef 25: 57
-   coef 26: -68
-   coef 27: 78
-   coef 28: -87
-   coef 29: 93
-   coef 30: -97
-   coef 31: 99
-  Y 15
-   coef 0: 2
-   coef 1: -7
-   coef 2: 12
-   coef 3: -17
-   coef 4: 21
-   coef 5: -26
-   coef 6: 31
-   coef 7: -35
-   coef 8: 40
-   coef 9: -44
-   coef 10: 49
-   coef 11: -53
-   coef 12: 57
-   coef 13: -61
-   coef 14: 65
-   coef 15: -68
-   coef 16: 72
-   coef 17: -75
-   coef 18: 78
-   coef 19: -81
-   coef 20: 84
-   coef 21: -87
-   coef 22: 89
-   coef 23: -91
-   coef 24: 93
-   coef 25: -94
-   coef 26: 96
-   coef 27: -97
-   coef 28: 98
-   coef 29: -99
-   coef 30: 99
-   coef 31: -99
-  Y 16
-   coef 0: -2
-   coef 1: 7
-   coef 2: -12
-   coef 3: 17
-   coef 4: -21
-   coef 5: 26
-   coef 6: -31
-   coef 7: 35
-   coef 8: -40
-   coef 9: 44
-   coef 10: -49
-   coef 11: 53
-   coef 12: -57
-   coef 13: 61
-   coef 14: -65
-   coef 15: 68
-   coef 16: -72
-   coef 17: 75
-   coef 18: -78
-   coef 19: 81
-   coef 20: -84
-   coef 21: 87
-   coef 22: -89
-   coef 23: 91
-   coef 24: -93
-   coef 25: 94
-   coef 26: -96
-   coef 27: 97
-   coef 28: -98
-   coef 29: 99
-   coef 30: -99
-   coef 31: 99
-  Y 17
-   coef 0: -7
-   coef 1: 21
-   coef 2: -35
-   coef 3: 49
-   coef 4: -61
-   coef 5: 72
-   coef 6: -81
-   coef 7: 89
-   coef 8: -94
-   coef 9: 98
-   coef 10: -99
-   coef 11: 99
-   coef 12: -96
-   coef 13: 91
-   coef 14: -84
-   coef 15: 75
-   coef 16: -65
-   coef 17: 53
-   coef 18: -40
-   coef 19: 26
-   coef 20: -12
-   coef 21: -2
-   coef 22: 17
-   coef 23: -31
-   coef 24: 44
-   coef 25: -57
-   coef 26: 68
-   coef 27: -78
-   coef 28: 87
-   coef 29: -93
-   coef 30: 97
-   coef 31: -99
-  Y 18
-   coef 0: -12
-   coef 1: 35
-   coef 2: -57
-   coef 3: 75
-   coef 4: -89
-   coef 5: 97
-   coef 6: -99
-   coef 7: 96
-   coef 8: -87
-   coef 9: 72
-   coef 10: -53
-   coef 11: 31
-   coef 12: -7
-   coef 13: -17
-   coef 14: 40
-   coef 15: -61
-   coef 16: 78
-   coef 17: -91
-   coef 18: 98
-   coef 19: -99
-   coef 20: 94
-   coef 21: -84
-   coef 22: 68
-   coef 23: -49
-   coef 24: 26
-   coef 25: -2
-   coef 26: -21
-   coef 27: 44
-   coef 28: -65
-   coef 29: 81
-   coef 30: -93
-   coef 31: 99
-  Y 19
-   coef 0: -17
-   coef 1: 49
-   coef 2: -75
-   coef 3: 93
-   coef 4: -99
-   coef 5: 94
-   coef 6: -78
-   coef 7: 53
-   coef 8: -21
-   coef 9: -12
-   coef 10: 44
-   coef 11: -72
-   coef 12: 91
-   coef 13: -99
-   coef 14: 96
-   coef 15: -81
-   coef 16: 57
-   coef 17: -26
-   coef 18: -7
-   coef 19: 40
-   coef 20: -68
-   coef 21: 89
-   coef 22: -99
-   coef 23: 97
-   coef 24: -84
-   coef 25: 61
-   coef 26: -31
-   coef 27: -2
-   coef 28: 35
-   coef 29: -65
-   coef 30: 87
-   coef 31: -98
-  Y 20
-   coef 0: -21
-   coef 1: 61
-   coef 2: -89
-   coef 3: 99
-   coef 4: -91
-   coef 5: 65
-   coef 6: -26
-   coef 7: -17
-   coef 8: 57
-   coef 9: -87
-   coef 10: 99
-   coef 11: -93
-   coef 12: 68
-   coef 13: -31
-   coef 14: -12
-   coef 15: 53
-   coef 16: -84
-   coef 17: 99
-   coef 18: -94
-   coef 19: 72
-   coef 20: -35
-   coef 21: -7
-   coef 22: 49
-   coef 23: -81
-   coef 24: 98
-   coef 25: -96
-   coef 26: 75
-   coef 27: -40
-   coef 28: -2
-   coef 29: 44
-   coef 30: -78
-   coef 31: 97
-  Y 21
-   coef 0: -26
-   coef 1: 72
-   coef 2: -97
-   coef 3: 94
-   coef 4: -65
-   coef 5: 17
-   coef 6: 35
-   coef 7: -78
-   coef 8: 99
-   coef 9: -91
-   coef 10: 57
-   coef 11: -7
-   coef 12: -44
-   coef 13: 84
-   coef 14: -99
-   coef 15: 87
-   coef 16: -49
-   coef 17: -2
-   coef 18: 53
-   coef 19: -89
-   coef 20: 99
-   coef 21: -81
-   coef 22: 40
-   coef 23: 12
-   coef 24: -61
-   coef 25: 93
-   coef 26: -98
-   coef 27: 75
-   coef 28: -31
-   coef 29: -21
-   coef 30: 68
-   coef 31: -96
-  Y 22
-   coef 0: -31
-   coef 1: 81
-   coef 2: -99
-   coef 3: 78
-   coef 4: -26
-   coef 5: -35
-   coef 6: 84
-   coef 7: -99
-   coef 8: 75
-   coef 9: -21
-   coef 10: -40
-   coef 11: 87
-   coef 12: -99
-   coef 13: 72
-   coef 14: -17
-   coef 15: -44
-   coef 16: 89
-   coef 17: -98
-   coef 18: 68
-   coef 19: -12
-   coef 20: -49
-   coef 21: 91
-   coef 22: -97
-   coef 23: 65
-   coef 24: -7
-   coef 25: -53
-   coef 26: 93
-   coef 27: -96
-   coef 28: 61
-   coef 29: -2
-   coef 30: -57
-   coef 31: 94
-  Y 23
-   coef 0: -35
-   coef 1: 89
-   coef 2: -96
-   coef 3: 53
-   coef 4: 17
-   coef 5: -78
-   coef 6: 99
-   coef 7: -68
-   coef 8: 2
-   coef 9: 65
-   coef 10: -99
-   coef 11: 81
-   coef 12: -21
-   coef 13: -49
-   coef 14: 94
-   coef 15: -91
-   coef 16: 40
-   coef 17: 31
-   coef 18: -87
-   coef 19: 97
-   coef 20: -57
-   coef 21: -12
-   coef 22: 75
-   coef 23: -99
-   coef 24: 72
-   coef 25: -7
-   coef 26: -61
-   coef 27: 98
-   coef 28: -84
-   coef 29: 26
-   coef 30: 44
-   coef 31: -93
-  Y 24
-   coef 0: -40
-   coef 1: 94
-   coef 2: -87
-   coef 3: 21
-   coef 4: 57
-   coef 5: -99
-   coef 6: 75
-   coef 7: -2
-   coef 8: -72
-   coef 9: 99
-   coef 10: -61
-   coef 11: -17
-   coef 12: 84
-   coef 13: -96
-   coef 14: 44
-   coef 15: 35
-   coef 16: -93
-   coef 17: 89
-   coef 18: -26
-   coef 19: -53
-   coef 20: 98
-   coef 21: -78
-   coef 22: 7
-   coef 23: 68
-   coef 24: -99
-   coef 25: 65
-   coef 26: 12
-   coef 27: -81
-   coef 28: 97
-   coef 29: -49
-   coef 30: -31
-   coef 31: 91
-  Y 25
-   coef 0: -44
-   coef 1: 98
-   coef 2: -72
-   coef 3: -12
-   coef 4: 87
-   coef 5: -91
-   coef 6: 21
-   coef 7: 65
-   coef 8: -99
-   coef 9: 53
-   coef 10: 35
-   coef 11: -96
-   coef 12: 78
-   coef 13: 2
-   coef 14: -81
-   coef 15: 94
-   coef 16: -31
-   coef 17: -57
-   coef 18: 99
-   coef 19: -61
-   coef 20: -26
-   coef 21: 93
-   coef 22: -84
-   coef 23: 7
-   coef 24: 75
-   coef 25: -97
-   coef 26: 40
-   coef 27: 49
-   coef 28: -99
-   coef 29: 68
-   coef 30: 17
-   coef 31: -89
-  Y 26
-   coef 0: -49
-   coef 1: 99
-   coef 2: -53
-   coef 3: -44
-   coef 4: 99
-   coef 5: -57
-   coef 6: -40
-   coef 7: 99
-   coef 8: -61
-   coef 9: -35
-   coef 10: 98
-   coef 11: -65
-   coef 12: -31
-   coef 13: 97
-   coef 14: -68
-   coef 15: -26
-   coef 16: 96
-   coef 17: -72
-   coef 18: -21
-   coef 19: 94
-   coef 20: -75
-   coef 21: -17
-   coef 22: 93
-   coef 23: -78
-   coef 24: -12
-   coef 25: 91
-   coef 26: -81
-   coef 27: -7
-   coef 28: 89
-   coef 29: -84
-   coef 30: -2
-   coef 31: 87
-  Y 27
-   coef 0: -53
-   coef 1: 99
-   coef 2: -31
-   coef 3: -72
-   coef 4: 93
-   coef 5: -7
-   coef 6: -87
-   coef 7: 81
-   coef 8: 17
-   coef 9: -96
-   coef 10: 65
-   coef 11: 40
-   coef 12: -99
-   coef 13: 44
-   coef 14: 61
-   coef 15: -97
-   coef 16: 21
-   coef 17: 78
-   coef 18: -89
-   coef 19: -2
-   coef 20: 91
-   coef 21: -75
-   coef 22: -26
-   coef 23: 98
-   coef 24: -57
-   coef 25: -49
-   coef 26: 99
-   coef 27: -35
-   coef 28: -68
-   coef 29: 94
-   coef 30: -12
-   coef 31: -84
-  Y 28
-   coef 0: -57
-   coef 1: 96
-   coef 2: -7
-   coef 3: -91
-   coef 4: 68
-   coef 5: 44
-   coef 6: -99
-   coef 7: 21
-   coef 8: 84
-   coef 9: -78
-   coef 10: -31
-   coef 11: 99
-   coef 12: -35
-   coef 13: -75
-   coef 14: 87
-   coef 15: 17
-   coef 16: -98
-   coef 17: 49
-   coef 18: 65
-   coef 19: -93
-   coef 20: -2
-   coef 21: 94
-   coef 22: -61
-   coef 23: -53
-   coef 24: 97
-   coef 25: -12
-   coef 26: -89
-   coef 27: 72
-   coef 28: 40
-   coef 29: -99
-   coef 30: 26
-   coef 31: 81
-  Y 29
-   coef 0: -61
-   coef 1: 91
-   coef 2: 17
-   coef 3: -99
-   coef 4: 31
-   coef 5: 84
-   coef 6: -72
-   coef 7: -49
-   coef 8: 96
-   coef 9: 2
-   coef 10: -97
-   coef 11: 44
-   coef 12: 75
-   coef 13: -81
-   coef 14: -35
-   coef 15: 99
-   coef 16: -12
-   coef 17: -93
-   coef 18: 57
-   coef 19: 65
-   coef 20: -89
-   coef 21: -21
-   coef 22: 99
-   coef 23: -26
-   coef 24: -87
-   coef 25: 68
-   coef 26: 53
-   coef 27: -94
-   coef 28: -7
-   coef 29: 98
-   coef 30: -40
-   coef 31: -78
-  Y 30
-   coef 0: -65
-   coef 1: 84
-   coef 2: 40
-   coef 3: -96
-   coef 4: -12
-   coef 5: 99
-   coef 6: -17
-   coef 7: -94
-   coef 8: 44
-   coef 9: 81
-   coef 10: -68
-   coef 11: -61
-   coef 12: 87
-   coef 13: 35
-   coef 14: -97
-   coef 15: -7
-   coef 16: 99
-   coef 17: -21
-   coef 18: -93
-   coef 19: 49
-   coef 20: 78
-   coef 21: -72
-   coef 22: -57
-   coef 23: 89
-   coef 24: 31
-   coef 25: -98
-   coef 26: -2
-   coef 27: 99
-   coef 28: -26
-   coef 29: -91
-   coef 30: 53
-   coef 31: 75
-  Y 31
-   coef 0: -68
-   coef 1: 75
-   coef 2: 61
-   coef 3: -81
-   coef 4: -53
-   coef 5: 87
-   coef 6: 44
-   coef 7: -91
-   coef 8: -35
-   coef 9: 94
-   coef 10: 26
-   coef 11: -97
-   coef 12: -17
-   coef 13: 99
-   coef 14: 7
-   coef 15: -99
-   coef 16: 2
-   coef 17: 99
-   coef 18: -12
-   coef 19: -98
-   coef 20: 21
-   coef 21: 96
-   coef 22: -31
-   coef 23: -93
-   coef 24: 40
-   coef 25: 89
-   coef 26: -49
-   coef 27: -84
-   coef 28: 57
-   coef 29: 78
-   coef 30: -65
-   coef 31: -72
-  Y 32
-   coef 0: -72
-   coef 1: 65
-   coef 2: 78
-   coef 3: -57
-   coef 4: -84
-   coef 5: 49
-   coef 6: 89
-   coef 7: -40
-   coef 8: -93
-   coef 9: 31
-   coef 10: 96
-   coef 11: -21
-   coef 12: -98
-   coef 13: 12
-   coef 14: 99
-   coef 15: -2
-   coef 16: -99
-   coef 17: -7
-   coef 18: 99
-   coef 19: 17
-   coef 20: -97
-   coef 21: -26
-   coef 22: 94
-   coef 23: 35
-   coef 24: -91
-   coef 25: -44
-   coef 26: 87
-   coef 27: 53
-   coef 28: -81
-   coef 29: -61
-   coef 30: 75
-   coef 31: 68
-  Y 33
-   coef 0: -75
-   coef 1: 53
-   coef 2: 91
-   coef 3: -26
-   coef 4: -99
-   coef 5: -2
-   coef 6: 98
-   coef 7: 31
-   coef 8: -89
-   coef 9: -57
-   coef 10: 72
-   coef 11: 78
-   coef 12: -49
-   coef 13: -93
-   coef 14: 21
-   coef 15: 99
-   coef 16: 7
-   coef 17: -97
-   coef 18: -35
-   coef 19: 87
-   coef 20: 61
-   coef 21: -68
-   coef 22: -81
-   coef 23: 44
-   coef 24: 94
-   coef 25: -17
-   coef 26: -99
-   coef 27: -12
-   coef 28: 96
-   coef 29: 40
-   coef 30: -84
-   coef 31: -65
-  Y 34
-   coef 0: -78
-   coef 1: 40
-   coef 2: 98
-   coef 3: 7
-   coef 4: -94
-   coef 5: -53
-   coef 6: 68
-   coef 7: 87
-   coef 8: -26
-   coef 9: -99
-   coef 10: -21
-   coef 11: 89
-   coef 12: 65
-   coef 13: -57
-   coef 14: -93
-   coef 15: 12
-   coef 16: 99
-   coef 17: 35
-   coef 18: -81
-   coef 19: -75
-   coef 20: 44
-   coef 21: 97
-   coef 22: 2
-   coef 23: -96
-   coef 24: -49
-   coef 25: 72
-   coef 26: 84
-   coef 27: -31
-   coef 28: -99
-   coef 29: -17
-   coef 30: 91
-   coef 31: 61
-  Y 35
-   coef 0: -81
-   coef 1: 26
-   coef 2: 99
-   coef 3: 40
-   coef 4: -72
-   coef 5: -89
-   coef 6: 12
-   coef 7: 97
-   coef 8: 53
-   coef 9: -61
-   coef 10: -94
-   coef 11: -2
-   coef 12: 93
-   coef 13: 65
-   coef 14: -49
-   coef 15: -98
-   coef 16: -17
-   coef 17: 87
-   coef 18: 75
-   coef 19: -35
-   coef 20: -99
-   coef 21: -31
-   coef 22: 78
-   coef 23: 84
-   coef 24: -21
-   coef 25: -99
-   coef 26: -44
-   coef 27: 68
-   coef 28: 91
-   coef 29: -7
-   coef 30: -96
-   coef 31: -57
-  Y 36
-   coef 0: -84
-   coef 1: 12
-   coef 2: 94
-   coef 3: 68
-   coef 4: -35
-   coef 5: -99
-   coef 6: -49
-   coef 7: 57
-   coef 8: 98
-   coef 9: 26
-   coef 10: -75
-   coef 11: -91
-   coef 12: -2
-   coef 13: 89
-   coef 14: 78
-   coef 15: -21
-   coef 16: -97
-   coef 17: -61
-   coef 18: 44
-   coef 19: 99
-   coef 20: 40
-   coef 21: -65
-   coef 22: -96
-   coef 23: -17
-   coef 24: 81
-   coef 25: 87
-   coef 26: -7
-   coef 27: -93
-   coef 28: -72
-   coef 29: 31
-   coef 30: 99
-   coef 31: 53
-  Y 37
-   coef 0: -87
-   coef 1: -2
-   coef 2: 84
-   coef 3: 89
-   coef 4: 7
-   coef 5: -81
-   coef 6: -91
-   coef 7: -12
-   coef 8: 78
-   coef 9: 93
-   coef 10: 17
-   coef 11: -75
-   coef 12: -94
-   coef 13: -21
-   coef 14: 72
-   coef 15: 96
-   coef 16: 26
-   coef 17: -68
-   coef 18: -97
-   coef 19: -31
-   coef 20: 65
-   coef 21: 98
-   coef 22: 35
-   coef 23: -61
-   coef 24: -99
-   coef 25: -40
-   coef 26: 57
-   coef 27: 99
-   coef 28: 44
-   coef 29: -53
-   coef 30: -99
-   coef 31: -49
-  Y 38
-   coef 0: -89
-   coef 1: -17
-   coef 2: 68
-   coef 3: 99
-   coef 4: 49
-   coef 5: -40
-   coef 6: -97
-   coef 7: -75
-   coef 8: 7
-   coef 9: 84
-   coef 10: 93
-   coef 11: 26
-   coef 12: -61
-   coef 13: -99
-   coef 14: -57
-   coef 15: 31
-   coef 16: 94
-   coef 17: 81
-   coef 18: 2
-   coef 19: -78
-   coef 20: -96
-   coef 21: -35
-   coef 22: 53
-   coef 23: 99
-   coef 24: 65
-   coef 25: -21
-   coef 26: -91
-   coef 27: -87
-   coef 28: -12
-   coef 29: 72
-   coef 30: 98
-   coef 31: 44
-  Y 39
-   coef 0: -91
-   coef 1: -31
-   coef 2: 49
-   coef 3: 97
-   coef 4: 81
-   coef 5: 12
-   coef 6: -65
-   coef 7: -99
-   coef 8: -68
-   coef 9: 7
-   coef 10: 78
-   coef 11: 98
-   coef 12: 53
-   coef 13: -26
-   coef 14: -89
-   coef 15: -93
-   coef 16: -35
-   coef 17: 44
-   coef 18: 96
-   coef 19: 84
-   coef 20: 17
-   coef 21: -61
-   coef 22: -99
-   coef 23: -72
-   coef 24: 2
-   coef 25: 75
-   coef 26: 99
-   coef 27: 57
-   coef 28: -21
-   coef 29: -87
-   coef 30: -94
-   coef 31: -40
-  Y 40
-   coef 0: -93
-   coef 1: -44
-   coef 2: 26
-   coef 3: 84
-   coef 4: 98
-   coef 5: 61
-   coef 6: -7
-   coef 7: -72
-   coef 8: -99
-   coef 9: -75
-   coef 10: -12
-   coef 11: 57
-   coef 12: 97
-   coef 13: 87
-   coef 14: 31
-   coef 15: -40
-   coef 16: -91
-   coef 17: -94
-   coef 18: -49
-   coef 19: 21
-   coef 20: 81
-   coef 21: 99
-   coef 22: 65
-   coef 23: -2
-   coef 24: -68
-   coef 25: -99
-   coef 26: -78
-   coef 27: -17
-   coef 28: 53
-   coef 29: 96
-   coef 30: 89
-   coef 31: 35
-  Y 41
-   coef 0: -94
-   coef 1: -57
-   coef 2: 2
-   coef 3: 61
-   coef 4: 96
-   coef 5: 93
-   coef 6: 53
-   coef 7: -7
-   coef 8: -65
-   coef 9: -97
-   coef 10: -91
-   coef 11: -49
-   coef 12: 12
-   coef 13: 68
-   coef 14: 98
-   coef 15: 89
-   coef 16: 44
-   coef 17: -17
-   coef 18: -72
-   coef 19: -99
-   coef 20: -87
-   coef 21: -40
-   coef 22: 21
-   coef 23: 75
-   coef 24: 99
-   coef 25: 84
-   coef 26: 35
-   coef 27: -26
-   coef 28: -78
-   coef 29: -99
-   coef 30: -81
-   coef 31: -31
-  Y 42
-   coef 0: -96
-   coef 1: -68
-   coef 2: -21
-   coef 3: 31
-   coef 4: 75
-   coef 5: 98
-   coef 6: 93
-   coef 7: 61
-   coef 8: 12
-   coef 9: -40
-   coef 10: -81
-   coef 11: -99
-   coef 12: -89
-   coef 13: -53
-   coef 14: -2
-   coef 15: 49
-   coef 16: 87
-   coef 17: 99
-   coef 18: 84
-   coef 19: 44
-   coef 20: -7
-   coef 21: -57
-   coef 22: -91
-   coef 23: -99
-   coef 24: -78
-   coef 25: -35
-   coef 26: 17
-   coef 27: 65
-   coef 28: 94
-   coef 29: 97
-   coef 30: 72
-   coef 31: 26
-  Y 43
-   coef 0: -97
-   coef 1: -78
-   coef 2: -44
-   coef 3: -2
-   coef 4: 40
-   coef 5: 75
-   coef 6: 96
-   coef 7: 98
-   coef 8: 81
-   coef 9: 49
-   coef 10: 7
-   coef 11: -35
-   coef 12: -72
-   coef 13: -94
-   coef 14: -99
-   coef 15: -84
-   coef 16: -53
-   coef 17: -12
-   coef 18: 31
-   coef 19: 68
-   coef 20: 93
-   coef 21: 99
-   coef 22: 87
-   coef 23: 57
-   coef 24: 17
-   coef 25: -26
-   coef 26: -65
-   coef 27: -91
-   coef 28: -99
-   coef 29: -89
-   coef 30: -61
-   coef 31: -21
-  Y 44
-   coef 0: -98
-   coef 1: -87
-   coef 2: -65
-   coef 3: -35
-   coef 4: -2
-   coef 5: 31
-   coef 6: 61
-   coef 7: 84
-   coef 8: 97
-   coef 9: 99
-   coef 10: 89
-   coef 11: 68
-   coef 12: 40
-   coef 13: 7
-   coef 14: -26
-   coef 15: -57
-   coef 16: -81
-   coef 17: -96
-   coef 18: -99
-   coef 19: -91
-   coef 20: -72
-   coef 21: -44
-   coef 22: -12
-   coef 23: 21
-   coef 24: 53
-   coef 25: 78
-   coef 26: 94
-   coef 27: 99
-   coef 28: 93
-   coef 29: 75
-   coef 30: 49
-   coef 31: 17
-  Y 45
-   coef 0: -99
-   coef 1: -93
-   coef 2: -81
-   coef 3: -65
-   coef 4: -44
-   coef 5: -21
-   coef 6: 2
-   coef 7: 26
-   coef 8: 49
-   coef 9: 68
-   coef 10: 84
-   coef 11: 94
-   coef 12: 99
-   coef 13: 98
-   coef 14: 91
-   coef 15: 78
-   coef 16: 61
-   coef 17: 40
-   coef 18: 17
-   coef 19: -7
-   coef 20: -31
-   coef 21: -53
-   coef 22: -72
-   coef 23: -87
-   coef 24: -96
-   coef 25: -99
-   coef 26: -97
-   coef 27: -89
-   coef 28: -75
-   coef 29: -57
-   coef 30: -35
-   coef 31: -12
-  Y 46
-   coef 0: -99
-   coef 1: -97
-   coef 2: -93
-   coef 3: -87
-   coef 4: -78
-   coef 5: -68
-   coef 6: -57
-   coef 7: -44
-   coef 8: -31
-   coef 9: -17
-   coef 10: -2
-   coef 11: 12
-   coef 12: 26
-   coef 13: 40
-   coef 14: 53
-   coef 15: 65
-   coef 16: 75
-   coef 17: 84
-   coef 18: 91
-   coef 19: 96
-   coef 20: 99
-   coef 21: 99
-   coef 22: 98
-   coef 23: 94
-   coef 24: 89
-   coef 25: 81
-   coef 26: 72
-   coef 27: 61
-   coef 28: 49
-   coef 29: 35
-   coef 30: 21
-   coef 31: 7
-  Y 47
-   coef 0: -99
-   coef 1: -99
-   coef 2: -99
-   coef 3: -98
-   coef 4: -97
-   coef 5: -96
-   coef 6: -94
-   coef 7: -93
-   coef 8: -91
-   coef 9: -89
-   coef 10: -87
-   coef 11: -84
-   coef 12: -81
-   coef 13: -78
-   coef 14: -75
-   coef 15: -72
-   coef 16: -68
-   coef 17: -65
-   coef 18: -61
-   coef 19: -57
-   coef 20: -53
-   coef 21: -49
-   coef 22: -44
-   coef 23: -40
-   coef 24: -35
-   coef 25: -31
-   coef 26: -26
-   coef 27: -21
-   coef 28: -17
-   coef 29: -12
-   coef 30: -7
-   coef 31: -2
-  Y 48
-   coef 0: -99
-   coef 1: -99
-   coef 2: -99
-   coef 3: -98
-   coef 4: -97
-   coef 5: -96
-   coef 6: -94
-   coef 7: -93
-   coef 8: -91
-   coef 9: -89
-   coef 10: -87
-   coef 11: -84
-   coef 12: -81
-   coef 13: -78
-   coef 14: -75
-   coef 15: -72
-   coef 16: -68
-   coef 17: -65
-   coef 18: -61
-   coef 19: -57
-   coef 20: -53
-   coef 21: -49
-   coef 22: -44
-   coef 23: -40
-   coef 24: -35
-   coef 25: -31
-   coef 26: -26
-   coef 27: -21
-   coef 28: -17
-   coef 29: -12
-   coef 30: -7
-   coef 31: -2
-  Y 49
-   coef 0: -99
-   coef 1: -97
-   coef 2: -93
-   coef 3: -87
-   coef 4: -78
-   coef 5: -68
-   coef 6: -57
-   coef 7: -44
-   coef 8: -31
-   coef 9: -17
-   coef 10: -2
-   coef 11: 12
-   coef 12: 26
-   coef 13: 40
-   coef 14: 53
-   coef 15: 65
-   coef 16: 75
-   coef 17: 84
-   coef 18: 91
-   coef 19: 96
-   coef 20: 99
-   coef 21: 99
-   coef 22: 98
-   coef 23: 94
-   coef 24: 89
-   coef 25: 81
-   coef 26: 72
-   coef 27: 61
-   coef 28: 49
-   coef 29: 35
-   coef 30: 21
-   coef 31: 7
-  Y 50
-   coef 0: -99
-   coef 1: -93
-   coef 2: -81
-   coef 3: -65
-   coef 4: -44
-   coef 5: -21
-   coef 6: 2
-   coef 7: 26
-   coef 8: 49
-   coef 9: 68
-   coef 10: 84
-   coef 11: 94
-   coef 12: 99
-   coef 13: 98
-   coef 14: 91
-   coef 15: 78
-   coef 16: 61
-   coef 17: 40
-   coef 18: 17
-   coef 19: -7
-   coef 20: -31
-   coef 21: -53
-   coef 22: -72
-   coef 23: -87
-   coef 24: -96
-   coef 25: -99
-   coef 26: -97
-   coef 27: -89
-   coef 28: -75
-   coef 29: -57
-   coef 30: -35
-   coef 31: -12
-  Y 51
-   coef 0: -98
-   coef 1: -87
-   coef 2: -65
-   coef 3: -35
-   coef 4: -2
-   coef 5: 31
-   coef 6: 61
-   coef 7: 84
-   coef 8: 97
-   coef 9: 99
-   coef 10: 89
-   coef 11: 68
-   coef 12: 40
-   coef 13: 7
-   coef 14: -26
-   coef 15: -57
-   coef 16: -81
-   coef 17: -96
-   coef 18: -99
-   coef 19: -91
-   coef 20: -72
-   coef 21: -44
-   coef 22: -12
-   coef 23: 21
-   coef 24: 53
-   coef 25: 78
-   coef 26: 94
-   coef 27: 99
-   coef 28: 93
-   coef 29: 75
-   coef 30: 49
-   coef 31: 17
-  Y 52
-   coef 0: -97
-   coef 1: -78
-   coef 2: -44
-   coef 3: -2
-   coef 4: 40
-   coef 5: 75
-   coef 6: 96
-   coef 7: 98
-   coef 8: 81
-   coef 9: 49
-   coef 10: 7
-   coef 11: -35
-   coef 12: -72
-   coef 13: -94
-   coef 14: -99
-   coef 15: -84
-   coef 16: -53
-   coef 17: -12
-   coef 18: 31
-   coef 19: 68
-   coef 20: 93
-   coef 21: 99
-   coef 22: 87
-   coef 23: 57
-   coef 24: 17
-   coef 25: -26
-   coef 26: -65
-   coef 27: -91
-   coef 28: -99
-   coef 29: -89
-   coef 30: -61
-   coef 31: -21
-  Y 53
-   coef 0: -96
-   coef 1: -68
-   coef 2: -21
-   coef 3: 31
-   coef 4: 75
-   coef 5: 98
-   coef 6: 93
-   coef 7: 61
-   coef 8: 12
-   coef 9: -40
-   coef 10: -81
-   coef 11: -99
-   coef 12: -89
-   coef 13: -53
-   coef 14: -2
-   coef 15: 49
-   coef 16: 87
-   coef 17: 99
-   coef 18: 84
-   coef 19: 44
-   coef 20: -7
-   coef 21: -57
-   coef 22: -91
-   coef 23: -99
-   coef 24: -78
-   coef 25: -35
-   coef 26: 17
-   coef 27: 65
-   coef 28: 94
-   coef 29: 97
-   coef 30: 72
-   coef 31: 26
-  Y 54
-   coef 0: -94
-   coef 1: -57
-   coef 2: 2
-   coef 3: 61
-   coef 4: 96
-   coef 5: 93
-   coef 6: 53
-   coef 7: -7
-   coef 8: -65
-   coef 9: -97
-   coef 10: -91
-   coef 11: -49
-   coef 12: 12
-   coef 13: 68
-   coef 14: 98
-   coef 15: 89
-   coef 16: 44
-   coef 17: -17
-   coef 18: -72
-   coef 19: -99
-   coef 20: -87
-   coef 21: -40
-   coef 22: 21
-   coef 23: 75
-   coef 24: 99
-   coef 25: 84
-   coef 26: 35
-   coef 27: -26
-   coef 28: -78
-   coef 29: -99
-   coef 30: -81
-   coef 31: -31
-  Y 55
-   coef 0: -93
-   coef 1: -44
-   coef 2: 26
-   coef 3: 84
-   coef 4: 98
-   coef 5: 61
-   coef 6: -7
-   coef 7: -72
-   coef 8: -99
-   coef 9: -75
-   coef 10: -12
-   coef 11: 57
-   coef 12: 97
-   coef 13: 87
-   coef 14: 31
-   coef 15: -40
-   coef 16: -91
-   coef 17: -94
-   coef 18: -49
-   coef 19: 21
-   coef 20: 81
-   coef 21: 99
-   coef 22: 65
-   coef 23: -2
-   coef 24: -68
-   coef 25: -99
-   coef 26: -78
-   coef 27: -17
-   coef 28: 53
-   coef 29: 96
-   coef 30: 89
-   coef 31: 35
-  Y 56
-   coef 0: -91
-   coef 1: -31
-   coef 2: 49
-   coef 3: 97
-   coef 4: 81
-   coef 5: 12
-   coef 6: -65
-   coef 7: -99
-   coef 8: -68
-   coef 9: 7
-   coef 10: 78
-   coef 11: 98
-   coef 12: 53
-   coef 13: -26
-   coef 14: -89
-   coef 15: -93
-   coef 16: -35
-   coef 17: 44
-   coef 18: 96
-   coef 19: 84
-   coef 20: 17
-   coef 21: -61
-   coef 22: -99
-   coef 23: -72
-   coef 24: 2
-   coef 25: 75
-   coef 26: 99
-   coef 27: 57
-   coef 28: -21
-   coef 29: -87
-   coef 30: -94
-   coef 31: -40
-  Y 57
-   coef 0: -89
-   coef 1: -17
-   coef 2: 68
-   coef 3: 99
-   coef 4: 49
-   coef 5: -40
-   coef 6: -97
-   coef 7: -75
-   coef 8: 7
-   coef 9: 84
-   coef 10: 93
-   coef 11: 26
-   coef 12: -61
-   coef 13: -99
-   coef 14: -57
-   coef 15: 31
-   coef 16: 94
-   coef 17: 81
-   coef 18: 2
-   coef 19: -78
-   coef 20: -96
-   coef 21: -35
-   coef 22: 53
-   coef 23: 99
-   coef 24: 65
-   coef 25: -21
-   coef 26: -91
-   coef 27: -87
-   coef 28: -12
-   coef 29: 72
-   coef 30: 98
-   coef 31: 44
-  Y 58
-   coef 0: -87
-   coef 1: -2
-   coef 2: 84
-   coef 3: 89
-   coef 4: 7
-   coef 5: -81
-   coef 6: -91
-   coef 7: -12
-   coef 8: 78
-   coef 9: 93
-   coef 10: 17
-   coef 11: -75
-   coef 12: -94
-   coef 13: -21
-   coef 14: 72
-   coef 15: 96
-   coef 16: 26
-   coef 17: -68
-   coef 18: -97
-   coef 19: -31
-   coef 20: 65
-   coef 21: 98
-   coef 22: 35
-   coef 23: -61
-   coef 24: -99
-   coef 25: -40
-   coef 26: 57
-   coef 27: 99
-   coef 28: 44
-   coef 29: -53
-   coef 30: -99
-   coef 31: -49
-  Y 59
-   coef 0: -84
-   coef 1: 12
-   coef 2: 94
-   coef 3: 68
-   coef 4: -35
-   coef 5: -99
-   coef 6: -49
-   coef 7: 57
-   coef 8: 98
-   coef 9: 26
-   coef 10: -75
-   coef 11: -91
-   coef 12: -2
-   coef 13: 89
-   coef 14: 78
-   coef 15: -21
-   coef 16: -97
-   coef 17: -61
-   coef 18: 44
-   coef 19: 99
-   coef 20: 40
-   coef 21: -65
-   coef 22: -96
-   coef 23: -17
-   coef 24: 81
-   coef 25: 87
-   coef 26: -7
-   coef 27: -93
-   coef 28: -72
-   coef 29: 31
-   coef 30: 99
-   coef 31: 53
-  Y 60
-   coef 0: -81
-   coef 1: 26
-   coef 2: 99
-   coef 3: 40
-   coef 4: -72
-   coef 5: -89
-   coef 6: 12
-   coef 7: 97
-   coef 8: 53
-   coef 9: -61
-   coef 10: -94
-   coef 11: -2
-   coef 12: 93
-   coef 13: 65
-   coef 14: -49
-   coef 15: -98
-   coef 16: -17
-   coef 17: 87
-   coef 18: 75
-   coef 19: -35
-   coef 20: -99
-   coef 21: -31
-   coef 22: 78
-   coef 23: 84
-   coef 24: -21
-   coef 25: -99
-   coef 26: -44
-   coef 27: 68
-   coef 28: 91
-   coef 29: -7
-   coef 30: -96
-   coef 31: -57
-  Y 61
-   coef 0: -78
-   coef 1: 40
-   coef 2: 98
-   coef 3: 7
-   coef 4: -94
-   coef 5: -53
-   coef 6: 68
-   coef 7: 87
-   coef 8: -26
-   coef 9: -99
-   coef 10: -21
-   coef 11: 89
-   coef 12: 65
-   coef 13: -57
-   coef 14: -93
-   coef 15: 12
-   coef 16: 99
-   coef 17: 35
-   coef 18: -81
-   coef 19: -75
-   coef 20: 44
-   coef 21: 97
-   coef 22: 2
-   coef 23: -96
-   coef 24: -49
-   coef 25: 72
-   coef 26: 84
-   coef 27: -31
-   coef 28: -99
-   coef 29: -17
-   coef 30: 91
-   coef 31: 61
-  Y 62
-   coef 0: -75
-   coef 1: 53
-   coef 2: 91
-   coef 3: -26
-   coef 4: -99
-   coef 5: -2
-   coef 6: 98
-   coef 7: 31
-   coef 8: -89
-   coef 9: -57
-   coef 10: 72
-   coef 11: 78
-   coef 12: -49
-   coef 13: -93
-   coef 14: 21
-   coef 15: 99
-   coef 16: 7
-   coef 17: -97
-   coef 18: -35
-   coef 19: 87
-   coef 20: 61
-   coef 21: -68
-   coef 22: -81
-   coef 23: 44
-   coef 24: 94
-   coef 25: -17
-   coef 26: -99
-   coef 27: -12
-   coef 28: 96
-   coef 29: 40
-   coef 30: -84
-   coef 31: -65
-  Y 63
-   coef 0: -72
-   coef 1: 65
-   coef 2: 78
-   coef 3: -57
-   coef 4: -84
-   coef 5: 49
-   coef 6: 89
-   coef 7: -40
-   coef 8: -93
-   coef 9: 31
-   coef 10: 96
-   coef 11: -21
-   coef 12: -98
-   coef 13: 12
-   coef 14: 99
-   coef 15: -2
-   coef 16: -99
-   coef 17: -7
-   coef 18: 99
-   coef 19: 17
-   coef 20: -97
-   coef 21: -26
-   coef 22: 94
-   coef 23: 35
-   coef 24: -91
-   coef 25: -44
-   coef 26: 87
-   coef 27: 53
-   coef 28: -81
-   coef 29: -61
-   coef 30: 75
-   coef 31: 68
+60
+00111100
+-92
+10100100
+-13
+11110011
+99
+01100011
+-38
+11011010
+-79
+10110001
+38
+00100110
+-92
+10100100
+92
+01011100
+-38
+11011010
+-38
+11011010
+92
+01011100
+13
+00001101
+-38
+11011010
+60
+00111100
+-79
+10110001
+92
+01011100
+-99
+10011101
+-13
+11110011
+38
+00100110
+-60
+11000100
+79
+01001111
+-92
+10100100
+99
+01100011
+-38
+11011010
+92
+01011100
+-92
+10100100
+38
+00100110
+38
+00100110
+-92
+10100100
+-60
+11000100
+92
+01011100
+13
+00001101
+-99
+10011101
+38
+00100110
+79
+01001111
+-79
+10110001
+38
+00100110
+99
+01100011
+13
+00001101
+-92
+10100100
+-60
+11000100
+-92
+10100100
+-38
+11011010
+38
+00100110
+92
+01011100
+92
+01011100
+38
+00100110
+-99
+10011101
+-92
+10100100
+-79
+10110001
+-60
+11000100
+-38
+11011010
+-13
+11110011
+-99
+10011101
+-92
+10100100
+-79
+10110001
+-60
+11000100
+-38
+11011010
+-13
+11110011
+-92
+10100100
+-38
+11011010
+38
+00100110
+92
+01011100
+92
+01011100
+38
+00100110
+-79
+10110001
+38
+00100110
+99
+01100011
+13
+00001101
+-92
+10100100
+-60
+11000100
+67
+01000011
+-79
+10110001
+-53
+11001011
+88
+01011000
+38
+00100110
+-95
+10100001
+-21
+11101011
+99
+01100011
+4
+00000100
+-99
+10011101
+13
+00001101
+97
+01100001
+-30
+11100010
+-92
+10100100
+46
+00101110
+84
+01010100
+-60
+11000100
+-73
+10110111
+60
+00111100
+-92
+10100100
+-13
+11110011
+99
+01100011
+-38
+11011010
+-79
+10110001
+79
+01001111
+38
+00100110
+-99
+10011101
+13
+00001101
+92
+01011100
+-60
+11000100
+-60
+11000100
+92
+01011100
+13
+00001101
+-99
+10011101
+38
+00100110
+79
+01001111
+53
+00110101
+-99
+10011101
+30
+00011110
+73
+01001001
+-92
+10100100
+4
+00000100
+88
+01011000
+-79
+10110001
+-21
+11101011
+97
+01100001
+-60
+11000100
+-46
+11010010
+99
+01100011
+-38
+11011010
+-67
+10111101
+95
+01011111
+-13
+11110011
+-84
+10101100
+46
+00101110
+-99
+10011101
+67
+01000011
+21
+00010101
+-92
+10100100
+84
+01010100
+-4
+11111100
+-79
+10110001
+95
+01011111
+-30
+11100010
+-60
+11000100
+99
+01100011
+-53
+11001011
+-38
+11011010
+97
+01100001
+-73
+10110111
+-13
+11110011
+88
+01011000
+38
+00100110
+-92
+10100100
+92
+01011100
+-38
+11011010
+-38
+11011010
+92
+01011100
+-92
+10100100
+38
+00100110
+38
+00100110
+-92
+10100100
+92
+01011100
+-38
+11011010
+-38
+11011010
+92
+01011100
+-92
+10100100
+38
+00100110
+38
+00100110
+-92
+10100100
+30
+00011110
+-79
+10110001
+99
+01100011
+-84
+10101100
+38
+00100110
+21
+00010101
+-73
+10110111
+99
+01100011
+-88
+10101000
+46
+00101110
+13
+00001101
+-67
+10111101
+97
+01100001
+-92
+10100100
+53
+00110101
+4
+00000100
+-60
+11000100
+95
+01011111
+21
+00010101
+-60
+11000100
+88
+01011000
+-99
+10011101
+92
+01011100
+-67
+10111101
+30
+00011110
+13
+00001101
+-53
+11001011
+84
+01010100
+-99
+10011101
+95
+01011111
+-73
+10110111
+38
+00100110
+4
+00000100
+-46
+11010010
+79
+01001111
+-97
+10011111
+13
+00001101
+-38
+11011010
+60
+00111100
+-79
+10110001
+92
+01011100
+-99
+10011101
+99
+01100011
+-92
+10100100
+79
+01001111
+-60
+11000100
+38
+00100110
+-13
+11110011
+-13
+11110011
+38
+00100110
+-60
+11000100
+79
+01001111
+-92
+10100100
+99
+01100011
+4
+00000100
+-13
+11110011
+21
+00010101
+-30
+11100010
+38
+00100110
+-46
+11010010
+53
+00110101
+-60
+11000100
+67
+01000011
+-73
+10110111
+79
+01001111
+-84
+10101100
+88
+01011000
+-92
+10100100
+95
+01011111
+-97
+10011111
+99
+01100011
+-99
+10011101
+-4
+11111100
+13
+00001101
+-21
+11101011
+30
+00011110
+-38
+11011010
+46
+00101110
+-53
+11001011
+60
+00111100
+-67
+10111101
+73
+01001001
+-79
+10110001
+84
+01010100
+-88
+10101000
+92
+01011100
+-95
+10100001
+97
+01100001
+-99
+10011101
+99
+01100011
+-13
+11110011
+38
+00100110
+-60
+11000100
+79
+01001111
+-92
+10100100
+99
+01100011
+-99
+10011101
+92
+01011100
+-79
+10110001
+60
+00111100
+-38
+11011010
+13
+00001101
+13
+00001101
+-38
+11011010
+60
+00111100
+-79
+10110001
+92
+01011100
+-99
+10011101
+-21
+11101011
+60
+00111100
+-88
+10101000
+99
+01100011
+-92
+10100100
+67
+01000011
+-30
+11100010
+-13
+11110011
+53
+00110101
+-84
+10101100
+99
+01100011
+-95
+10100001
+73
+01001001
+-38
+11011010
+-4
+11111100
+46
+00101110
+-79
+10110001
+97
+01100001
+-30
+11100010
+79
+01001111
+-99
+10011101
+84
+01010100
+-38
+11011010
+-21
+11101011
+73
+01001001
+-99
+10011101
+88
+01011000
+-46
+11010010
+-13
+11110011
+67
+01000011
+-97
+10011111
+92
+01011100
+-53
+11001011
+-4
+11111100
+60
+00111100
+-95
+10100001
+-38
+11011010
+92
+01011100
+-92
+10100100
+38
+00100110
+38
+00100110
+-92
+10100100
+92
+01011100
+-38
+11011010
+-38
+11011010
+92
+01011100
+-92
+10100100
+38
+00100110
+38
+00100110
+-92
+10100100
+92
+01011100
+-38
+11011010
+-38
+11011010
+92
+01011100
+-46
+11010010
+99
+01100011
+-67
+10111101
+-21
+11101011
+92
+01011100
+-84
+10101100
+4
+00000100
+79
+01001111
+-95
+10100001
+30
+00011110
+60
+00111100
+-99
+10011101
+53
+00110101
+38
+00100110
+-97
+10011111
+73
+01001001
+13
+00001101
+-88
+10101000
+-53
+11001011
+99
+01100011
+-30
+11100010
+-73
+10110111
+92
+01011100
+-4
+11111100
+-88
+10101000
+79
+01001111
+21
+00010101
+-97
+10011111
+60
+00111100
+46
+00101110
+-99
+10011101
+38
+00100110
+67
+01000011
+-95
+10100001
+13
+00001101
+84
+01010100
+-60
+11000100
+92
+01011100
+13
+00001101
+-99
+10011101
+38
+00100110
+79
+01001111
+-79
+10110001
+-38
+11011010
+99
+01100011
+-13
+11110011
+-92
+10100100
+60
+00111100
+60
+00111100
+-92
+10100100
+-13
+11110011
+99
+01100011
+-38
+11011010
+-79
+10110001
+-67
+10111101
+79
+01001111
+53
+00110101
+-88
+10101000
+-38
+11011010
+95
+01011111
+21
+00010101
+-99
+10011101
+-4
+11111100
+99
+01100011
+-13
+11110011
+-97
+10011111
+30
+00011110
+92
+01011100
+-46
+11010010
+-84
+10101100
+60
+00111100
+73
+01001001
+-73
+10110111
+60
+00111100
+84
+01010100
+-46
+11010010
+-92
+10100100
+30
+00011110
+97
+01100001
+-13
+11110011
+-99
+10011101
+-4
+11111100
+99
+01100011
+21
+00010101
+-95
+10100001
+-38
+11011010
+88
+01011000
+53
+00110101
+-79
+10110001
+-67
+10111101
+-79
+10110001
+38
+00100110
+99
+01100011
+13
+00001101
+-92
+10100100
+-60
+11000100
+60
+00111100
+92
+01011100
+-13
+11110011
+-99
+10011101
+-38
+11011010
+79
+01001111
+79
+01001111
+-38
+11011010
+-99
+10011101
+-13
+11110011
+92
+01011100
+60
+00111100
+-84
+10101100
+13
+00001101
+95
+01011111
+67
+01000011
+-38
+11011010
+-99
+10011101
+-46
+11010010
+60
+00111100
+97
+01100001
+21
+00010101
+-79
+10110001
+-88
+10101000
+4
+00000100
+92
+01011100
+73
+01001001
+-30
+11100010
+-99
+10011101
+-53
+11001011
+-88
+10101000
+-13
+11110011
+73
+01001001
+97
+01100001
+38
+00100110
+-53
+11001011
+-99
+10011101
+-60
+11000100
+30
+00011110
+95
+01011111
+79
+01001111
+-4
+11111100
+-84
+10101100
+-92
+10100100
+-21
+11101011
+67
+01000011
+99
+01100011
+46
+00101110
+-92
+10100100
+-38
+11011010
+38
+00100110
+92
+01011100
+92
+01011100
+38
+00100110
+-38
+11011010
+-92
+10100100
+-92
+10100100
+-38
+11011010
+38
+00100110
+92
+01011100
+92
+01011100
+38
+00100110
+-38
+11011010
+-92
+10100100
+-92
+10100100
+-38
+11011010
+-95
+10100001
+-60
+11000100
+-4
+11111100
+53
+00110101
+92
+01011100
+97
+01100001
+67
+01000011
+13
+00001101
+-46
+11010010
+-88
+10101000
+-99
+10011101
+-73
+10110111
+-21
+11101011
+38
+00100110
+84
+01010100
+99
+01100011
+79
+01001111
+30
+00011110
+-97
+10011111
+-79
+10110001
+-46
+11010010
+-4
+11111100
+38
+00100110
+73
+01001001
+95
+01011111
+99
+01100011
+84
+01010100
+53
+00110101
+13
+00001101
+-30
+11100010
+-67
+10111101
+-92
+10100100
+-99
+10011101
+-88
+10101000
+-60
+11000100
+-21
+11101011
+-99
+10011101
+-92
+10100100
+-79
+10110001
+-60
+11000100
+-38
+11011010
+-13
+11110011
+13
+00001101
+38
+00100110
+60
+00111100
+79
+01001111
+92
+01011100
+99
+01100011
+99
+01100011
+92
+01011100
+79
+01001111
+60
+00111100
+38
+00100110
+13
+00001101
+-99
+10011101
+-99
+10011101
+-97
+10011111
+-95
+10100001
+-92
+10100100
+-88
+10101000
+-84
+10101100
+-79
+10110001
+-73
+10110111
+-67
+10111101
+-60
+11000100
+-53
+11001011
+-46
+11010010
+-38
+11011010
+-30
+11100010
+-21
+11101011
+-13
+11110011
+-4
+11111100
+-99
+10011101
+-99
+10011101
+-97
+10011111
+-95
+10100001
+-92
+10100100
+-88
+10101000
+-84
+10101100
+-79
+10110001
+-73
+10110111
+-67
+10111101
+-60
+11000100
+-53
+11001011
+-46
+11010010
+-38
+11011010
+-30
+11100010
+-21
+11101011
+-13
+11110011
+-4
+11111100
+-99
+10011101
+-92
+10100100
+-79
+10110001
+-60
+11000100
+-38
+11011010
+-13
+11110011
+13
+00001101
+38
+00100110
+60
+00111100
+79
+01001111
+92
+01011100
+99
+01100011
+99
+01100011
+92
+01011100
+79
+01001111
+60
+00111100
+38
+00100110
+13
+00001101
+-97
+10011111
+-79
+10110001
+-46
+11010010
+-4
+11111100
+38
+00100110
+73
+01001001
+95
+01011111
+99
+01100011
+84
+01010100
+53
+00110101
+13
+00001101
+-30
+11100010
+-67
+10111101
+-92
+10100100
+-99
+10011101
+-88
+10101000
+-60
+11000100
+-21
+11101011
+-95
+10100001
+-60
+11000100
+-4
+11111100
+53
+00110101
+92
+01011100
+97
+01100001
+67
+01000011
+13
+00001101
+-46
+11010010
+-88
+10101000
+-99
+10011101
+-73
+10110111
+-21
+11101011
+38
+00100110
+84
+01010100
+99
+01100011
+79
+01001111
+30
+00011110
+-92
+10100100
+-38
+11011010
+38
+00100110
+92
+01011100
+92
+01011100
+38
+00100110
+-38
+11011010
+-92
+10100100
+-92
+10100100
+-38
+11011010
+38
+00100110
+92
+01011100
+92
+01011100
+38
+00100110
+-38
+11011010
+-92
+10100100
+-92
+10100100
+-38
+11011010
+-88
+10101000
+-13
+11110011
+73
+01001001
+97
+01100001
+38
+00100110
+-53
+11001011
+-99
+10011101
+-60
+11000100
+30
+00011110
+95
+01011111
+79
+01001111
+-4
+11111100
+-84
+10101100
+-92
+10100100
+-21
+11101011
+67
+01000011
+99
+01100011
+46
+00101110
+-84
+10101100
+13
+00001101
+95
+01011111
+67
+01000011
+-38
+11011010
+-99
+10011101
+-46
+11010010
+60
+00111100
+97
+01100001
+21
+00010101
+-79
+10110001
+-88
+10101000
+4
+00000100
+92
+01011100
+73
+01001001
+-30
+11100010
+-99
+10011101
+-53
+11001011
+-79
+10110001
+38
+00100110
+99
+01100011
+13
+00001101
+-92
+10100100
+-60
+11000100
+60
+00111100
+92
+01011100
+-13
+11110011
+-99
+10011101
+-38
+11011010
+79
+01001111
+79
+01001111
+-38
+11011010
+-99
+10011101
+-13
+11110011
+92
+01011100
+60
+00111100
+-73
+10110111
+60
+00111100
+84
+01010100
+-46
+11010010
+-92
+10100100
+30
+00011110
+97
+01100001
+-13
+11110011
+-99
+10011101
+-4
+11111100
+99
+01100011
+21
+00010101
+-95
+10100001
+-38
+11011010
+88
+01011000
+53
+00110101
+-79
+10110001
+-67
+10111101
