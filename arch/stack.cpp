@@ -7,10 +7,10 @@ void stack::initialize() {
 }
 
 void stack::push() {
-	if(pc.read() < SIZE) {
+	if(pc.read() < stackSIZE) {
 		pc.write(pc.read()+1);
 		pilha[pc.read()].write(data_in.read());
-		if(pc.read() < SIZE)
+		if(pc.read() < stackSIZE)
 			stack_full.write(0);
 		else
 			stack_full.write(1);

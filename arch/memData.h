@@ -1,5 +1,8 @@
 #include "systemc.h"
 
+#define memSIZE 4096
+#define memUsedSIZE 1024
+
 SC_MODULE(memData){
 
   	sc_in<sc_uint<32> > adress;
@@ -10,7 +13,7 @@ SC_MODULE(memData){
 	sc_out<sc_int<32> > data_out;
 
 	//memoria
-	sc_signal<sc_int<32> > mem[4096];
+	sc_signal<sc_int<32> > mem[memSIZE];
 	
 	void initialize();
 	void read_data();

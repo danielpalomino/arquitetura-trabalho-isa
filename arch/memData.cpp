@@ -8,7 +8,7 @@ void memData::read_data() {
 
 void memData::write_data() {
 	if(we.read() == 1) {
-		if(adress.read() > 720) {
+		if(adress.read() > memUsedSIZE) {
 			mem[adress.read()].write(data_in.read());
 		}
 	}
