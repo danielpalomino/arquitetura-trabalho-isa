@@ -1,3 +1,15 @@
 /* OPCODES */
-#define R_TYPE 0x00
+#define ADD 0x0
+#define SUB 0x1
+#define LW 0x2
+#define SW 0x3
+#define JZ 0x4
+#define JMP 0x5
+#define POP_N 0x6
+#define PUSH_N 0x7
+#define LW_N 0x8
+#define MAC_LOOP 0x9
+#define HASH 0xA
+#define INS_H 0xB
+#define SEARCH_H 0xC
 

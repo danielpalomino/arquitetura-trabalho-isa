@@ -8,7 +8,7 @@ SC_MODULE(stack) {
 
 	sc_signal<sc_uint<32> > pilha [stackSIZE];
 	sc_signal<sc_uint<1> > stack_full, stack_empty;
-	sc_signal<sc_uint<8> > pc;
+	sc_signal<sc_uint<8> > sp;
 	
 	void initialize();
 	void push();

@@ -2,10 +2,11 @@
 
 void reg_32b:: reset() {
 	if(rst.read() == 1)
-		pc_out.write(0);
+		q.write(0);
 }
 
 void reg_32b::compute() {
-	pc_out.write(pc_in.read());
+	if(enable.read() == 1)
+		q.write(d.read());
 }
 

@@ -8,16 +8,22 @@ SC_MODULE(mac) {
 	sc_out<sc_int<32> > output;
 	
 	//Instancias do somador e multiplicador
-	adder adder0;
-	multiplyer mult0;
+	adder *adder0;
+	multiplyer *mult0;
 
 	sc_signal<sc_int<32> > out_mult;
 
-	void compute();
+	SC_CTOR(mac) {
+		mult0 = new multiplyer("mac_mult");
+		adder0 = new adder("mac_adder");
 
-	SC_CTOR(mac) : adder0("somador"), mult0("multiplicador") {
-		SC_METHOD(compute);
-		sensitive << input0 << input1 << input_reg;
+		mult0.input0(input0);
+		mult0.input1(input1);
+		mult0.output(out_mult);
+
+		adder0.a(input_reg);
+		adder0.b(out_mult);
+		adder0.s(output);
 	}
 };
 

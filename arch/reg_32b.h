@@ -1,9 +1,9 @@
 #include "systemc.h"
 
 SC_MODULE(reg_32b) {
-	sc_in<sc_logic> clk, rst;
-	sc_in<sc_uint<32> > pc_in;
-	sc_out<sc_uint<32> > pc_out;
+	sc_in<sc_logic> clk, rst, enable;
+	sc_in<sc_uint<32> > d;
+	sc_out<sc_uint<32> > q;
 
 	void compute();
 	void reset();
