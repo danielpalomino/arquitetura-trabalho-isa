@@ -1,7 +1,7 @@
 #include "breg.h"
 
 void breg::write() {
-	if( w_en == '1' ) {
+	if( w_en.read() == '1' ) {
 		bank[address_w.read()].write(data_w.read());
 	}
 }
