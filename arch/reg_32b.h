@@ -1,4 +1,4 @@
-#include "sytemc.h"
+#include "systemc.h"
 
 SC_MODULE(reg_32b) {
 	sc_in<sc_logic> clk;
