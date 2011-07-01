@@ -1,6 +1,6 @@
 #include "systemc.h"
 
-SC_MODULE(MemInstruction){
+SC_MODULE(memInstruction){
 	sc_in<sc_uint<32> > pc;
 	sc_out<sc_int<32> > instruction;
 
@@ -9,7 +9,7 @@ SC_MODULE(MemInstruction){
 
 	void compute();
 
-	SC_CTOR(MemInstruction) {
+	SC_CTOR(memInstruction) {
 		SC_METHOD(compute);
 		sensitive << pc;
 	}

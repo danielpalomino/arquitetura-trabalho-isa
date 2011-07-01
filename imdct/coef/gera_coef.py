@@ -23,13 +23,15 @@ buff = fp_in.readlines()
 fp_in.close()
 
 coefList = []
+cont=1
 for line in buff:
 #	coefList.append(' N ' + str(int(line)))
 	for i in range(0,(int(line)*2)):
 #		coefList.append('  Y ' + str(i))
 		for k in range(0, int(line)):
-			coefList.append(str(int(geraCoef(int(line),i,k)*100)))
-			coefList.append(intToBin(int(geraCoef(int(line),i,k)*100),8))
+#			coefList.append(str(int(geraCoef(int(line),i,k)*100)))
+			coefList.append('mem[' + str(cont) + '].write(' + str(int(geraCoef(int(line),i,k)*100)) + ');')
+			cont = cont + 1
 
 fp_out = open('out','w')
 
