@@ -1,0 +1,33 @@
+## Variable that points to SystemC installation path
+SYSTEMC = /home/felsamps/Mestrado/systemc-2.2.0
+#
+# That's all for you!!!
+
+INCDIR = -I. -I.. -I../src -I$(SYSTEMC)/include
+LIBDIR = -L. -L.. -L../src -L$(SYSTEMC)/lib-$(TARGET_ARCH)
+
+#EXTRA_LIBS = -lpthread
+LIBS = -lsystemc -lm $(EXTRA_LIBS)
+
+EXE    = $(MODULE)
+
+
+.SUFFIXES: .cpp .o .x
+
+$(EXE): $(OBJS) $(SYSTEMC)/lib-$(TARGET_ARCH)/libsystemc.a 
+	$(CC) $(CFLAGS) $(INCDIR) $(LIBDIR) -o $@ $(OBJS) $(LIBS) 2>&1 | c++filt
+
+.cpp.o:
+	$(CC) $(CFLAGS) $(INCDIR) -c $<
+
+
+clean::
+	rm -f $(OBJS) *~ $(EXE) core
+
+ultraclean: clean
+	rm -f Makefile.deps
+
+Makefile.deps:
+#	$(CC) $(CFLAGS) $(INCDIR) -M $(SRCS) >> Makefile.deps
+
+#include Makefile.deps
