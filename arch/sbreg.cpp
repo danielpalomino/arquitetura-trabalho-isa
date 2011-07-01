@@ -22,6 +22,7 @@ void sbreg::write() {
 }
 
 void sbreg::read() {
-	data_out.write(bank[address.read()]);
+	data_a.write(bank[address_a.read()]);
+	data_b.write(bank[address_b.read()]);
 }
 

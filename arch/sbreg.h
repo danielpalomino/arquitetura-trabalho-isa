@@ -2,9 +2,9 @@
 
 SC_MODULE(sbreg) {
 	sc_in<sc_logic> clk, w_en;
-	sc_in<sc_uint<4> > address;
+	sc_in<sc_uint<4> > address_a, address_b;
 	sc_in<sc_uint<32> > data_in;
-	sc_out<sc_uint<32> > data_out;
+	sc_out<sc_uint<32> > data_a, data_b;
 
 	sc_signal<sc_uint<32> > bank[16];
 
