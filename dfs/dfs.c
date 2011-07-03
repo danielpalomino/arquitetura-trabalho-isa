@@ -1,6 +1,7 @@
 NULL = 0x0;
 
 struct nodo{
+	int dado;
 	struct nodo *esq, *dir;
 };
 

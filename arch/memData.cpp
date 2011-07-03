@@ -2,14 +2,15 @@
 
 void memData::read_data() {
 	if(re.read() == 1) {
-		data_out.write(mem[adress.read()].read());
+		data_out_a.write(mem[address_a.read()].read());
+		data_out_b.write(mem[address_b.read()].read());
 	}
 }
 
 void memData::write_data() {
 	if(we.read() == 1) {
-		if(adress.read() > memUsedSIZE) {
-			mem[adress.read()].write(data_in.read());
+		if(address_a.read() > memUsedSIZE) {
+			mem[address_a.read()].write(data_in.read());
 		}
 	}
 }
