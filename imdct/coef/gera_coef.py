@@ -30,12 +30,17 @@ for line in buff:
 #		coefList.append('  Y ' + str(i))
 		for k in range(0, int(line)):
 #			coefList.append(str(int(geraCoef(int(line),i,k)*100)))
-			coefList.append('mem[' + str(cont) + '].write(' + str(int(geraCoef(int(line),i,k)*100)) + ');')
+			coefList.append(str(int(geraCoef(int(line),i,k)*100)))
 			cont = cont + 1
 
 fp_out = open('out','w')
 
+i = 0
 for coef in coefList:
-	fp_out.write(str(coef) + '\n')
+	fp_out.write(str(coef) + ',')
+	i += 1
+	if i%72 == 0:
+		fp_out.write('\n')
+
 
 fp_out.close()
