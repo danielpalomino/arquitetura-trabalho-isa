@@ -14,7 +14,7 @@ int coef[720] = {60,-92,-13,99,-38,-79,38,-92,92,-38,-38,92,13,-38,60,-79,92,-99
 int entrada[6] = {2, 3, 4, 5, 6, 7};
 int saida[12];
 
-int main() {
+int main(void) {
 	int i ,j, acum, k=0;
 	for(i=0; i<12; i++) {
 		acum = 0;
@@ -24,7 +24,7 @@ int main() {
 		}
 		saida[i] = acum;
 	}
-	memstore(MAPPED_OUTPUT0, 0);
+	memstore(MAPPED_OUTPUT0, 1);
 
 
 }

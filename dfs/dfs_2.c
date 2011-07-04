@@ -1,4 +1,5 @@
 #define NULL 0x0
+#include "noclib.h"
 
 struct nodo{
 	int dado;
@@ -8,6 +9,18 @@ struct nodo{
 struct nodo n1;
 struct nodo n2;
 struct nodo n3;
+struct nodo n4;
+struct nodo n5;
+struct nodo n6;
+struct nodo n7;
+struct nodo n8;
+struct nodo n9;
+struct nodo n10;
+struct nodo n11;
+struct nodo n12;
+struct nodo n13;
+struct nodo n14;
+struct nodo n15;
 
 void dfs(struct nodo *n) {
 	if(n != NULL) {
@@ -63,6 +76,8 @@ int main(void) {
 	n15.esq = NULL;
 	n15.dir = NULL;
 
+	memstore(MAPPED_OUTPUT0, 10);
 	dfs(n);
+	memstore(MAPPED_OUTPUT0, 20);
 }
 
